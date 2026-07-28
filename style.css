@@ -158,7 +158,7 @@ button,
 input,
 select,
 option,
-.item-stub{
+.item-sub{
   font-size: var(--size-subheading);
   font-family: var(--font-item);
 }
