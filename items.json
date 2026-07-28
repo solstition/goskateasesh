@@ -724,7 +724,7 @@
     "Name": "Point Blonk",
     "Type": "Deck",
     "Rarity": "Fools Gold",
-    "Generation": 2,
+    "Generation": 7,
     "Collection": "Fools Gold",
     "Image Path": "Assets/Items/FSG201.png",
     "": ""
@@ -734,7 +734,7 @@
     "Name": "Blud Monies",
     "Type": "Deck",
     "Rarity": "Fools Gold",
-    "Generation": 2,
+    "Generation": 7,
     "Collection": "Fools Gold",
     "Image Path": "Assets/Items/FSG202.png",
     "": ""
@@ -744,7 +744,7 @@
     "Name": "IIIusion",
     "Type": "Deck",
     "Rarity": "Fools Gold",
-    "Generation": 2,
+    "Generation": 7,
     "Collection": "Fools Gold",
     "Image Path": "Assets/Items/FSG203.png",
     "": ""
@@ -764,7 +764,7 @@
     "Name": "Concealed",
     "Type": "Deck",
     "Rarity": "Fools Gold",
-    "Generation": 2,
+    "Generation": 7,
     "Collection": "Fools Gold",
     "Image Path": "Assets/Items/FSG205.png",
     "": ""
@@ -774,7 +774,7 @@
     "Name": "Durr",
     "Type": "Deck",
     "Rarity": "Fools Gold",
-    "Generation": 2,
+    "Generation": 7,
     "Collection": "Fools Gold",
     "Image Path": "Assets/Items/FSG206.png",
     "": ""
@@ -784,7 +784,7 @@
     "Name": "Palms",
     "Type": "Deck",
     "Rarity": "Fools Gold",
-    "Generation": 2,
+    "Generation": 7,
     "Collection": "Fools Gold",
     "Image Path": "Assets/Items/FSG207.png",
     "": ""
@@ -794,7 +794,7 @@
     "Name": "Weakid",
     "Type": "Deck",
     "Rarity": "Fools Gold",
-    "Generation": 2,
+    "Generation": 7,
     "Collection": "Fools Gold",
     "Image Path": "Assets/Items/FSG208.png",
     "": ""
@@ -804,7 +804,7 @@
     "Name": "Sul",
     "Type": "Deck",
     "Rarity": "Fools Gold",
-    "Generation": 2,
+    "Generation": 7,
     "Collection": "Fools Gold",
     "Image Path": "Assets/Items/FSG209.png",
     "": ""
@@ -814,7 +814,7 @@
     "Name": "Frog",
     "Type": "Deck",
     "Rarity": "Fools Gold",
-    "Generation": 2,
+    "Generation": 7,
     "Collection": "Fools Gold",
     "Image Path": "Assets/Items/FSG210.png",
     "": ""
@@ -824,7 +824,7 @@
     "Name": "Poostal",
     "Type": "Deck",
     "Rarity": "Fools Gold",
-    "Generation": 2,
+    "Generation": 7,
     "Collection": "Fools Gold",
     "Image Path": "Assets/Items/FSG211.png",
     "": ""
