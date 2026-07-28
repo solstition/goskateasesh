@@ -1,0 +1,780 @@
+/* ==============================
+   1. Imports
+   2. Root Variables
+   3. Base Elements
+   4. Navigation Bar
+   5. Home Page
+   6. Media Section
+   7. Search & Filter
+   8. Item Page
+   9. Animations
+   10. Responsive Design
+   ================================= */
+
+/* ========== 1. Imports ========== */
+@font-face {
+  font-family: "SplineSansSemiBold";
+  src: url("Assets/Font/SplineSans-SemiBold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SplineSansRegular";
+  src: url("Assets/Font/SplineSans-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SplineSansLight";
+  src: url("Assets/Font/SplineSans-Light.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Geist";
+  src: url("Assets/Font/Geist-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GeistMono";
+  src: url("Assets/Font/GeistMono-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Monogram";
+  src: url("Assets/Font/monogram.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Monogram";
+  src: url("Assets/Font/monogram-extended.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Monogram";
+  src: url("Assets/Font/monogram-extended-italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* ========== 2. Root Variables ========== */
+:root {
+  /* --- Colours --- */
+  --black: #111111;
+  --footer-black: #242424;
+  --light-black: #333333;
+  --darkest-green: #242924;
+  --dark-green: #2b302a;
+  --green: #4d5649;
+  --grey-blue: #4a5156;
+  --blue: #97a3bd;
+  --grey: #b3bac4;
+  --white: #ffffffe1;
+  --bg-light: #555555;
+  --bg-hover: #3d3d3d;
+  --red: #ff6b6b;
+  --red-hover: #e55a5a;
+
+  /* --- Typography --- */
+  /* Font Families */
+  --font-heading: "SplineSansSemiBold";
+  --font-subheading: "SplineSansLight";
+  --font-navbar: "GeistMono";
+  --font-body: "Geist";
+  --font-item: "GeistMono";
+  --font-monogram: "Monogram", monospace;
+
+  /* Font Sizes */
+  --size-heading: 24px;
+  --size-subheading: 16px;
+  --size-navbar: 16px;
+  --size-body: 16px;
+  --size-item: 14px;
+
+  /* --- Spacing & Radius --- */
+  --sm: 6px;
+  --md: 8px;
+  --lg: 10px;
+
+  /* --- Effects --- */
+  --transition: 0.4s ease;
+}
+
+/* ========== 3. Base Elements ========== */
+
+/* ----- Two Column Layout ----- */
+.two-column {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  max-width: 20000px;
+  margin: 0 auto;
+  padding: 0 20px;
+  text-align: left;
+}
+
+.two-column>* {
+  flex: 1;
+  text-align: left;
+}
+
+/* ----- Horizontal Line ----- */
+hr {
+  border: none;
+  height: 2px;
+  background-color: var(--green);
+}
+
+/* ----- Heading 1 ----- */
+h1 {
+  font-size: var(--size-heading);
+  font-family: var(--font-heading);
+  color: var(--grey);
+}
+
+/* ----- Body ----- */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--light-black);
+  color: var(--grey);
+}
+
+/* ----- Headings, Labels, Form Elements ----- */
+h2,
+label,
+button,
+input,
+select,
+option {
+  font-size: var(--size-subheading);
+  font-family: var(--font-item);
+}
+
+/* ----- Paragraph ----- */
+p,
+.submission ol {
+  font-size: var(--size-body);
+  font-family: var(--font-body);
+  color: var(--grey);
+}
+
+/* ----- Collection Title ----- */
+.col-title {
+  margin: 20px 0 5px 9px;
+  font-size: var(--size-subheading);
+  font-family: var(--font-item);
+  transition: all var(--transition);
+}
+
+/* ========== 4. Navigation Bar ========== */
+
+/* ----- Navbar Container ----- */
+#navbar {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  display: flex;
+  height: 56px;
+  justify-content: flex-start;
+  backdrop-filter: blur(300px);
+  box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.3);
+}
+
+/* ----- Navbar Links ----- */
+#navbar a {
+  flex: 0 0 95px;
+  height: 20px;
+  padding: 18px;
+  text-align: center;
+  font-size: var(--size-navbar);
+  font-family: var(--font-navbar);
+  text-decoration: none;
+  color: var(--grey);
+  transition: all 0.8s ease;
+}
+
+/* ----- Navbar Links - Hover ----- */
+#navbar a:hover {
+  background-color: var(--black);
+  color: var(--grey);
+}
+
+/* ========== 5. Home Page ========== */
+
+/* ----- Start Background ----- */
+.start-bg {
+  position: relative;
+  min-height: 100vh;
+  padding-top: 128px;
+  padding-right: 16px;
+  background-image: url("media/images/sesh.png");
+  background-size: cover;
+  background-position: center;
+}
+
+/* ----- Start Background - Overlay ----- */
+.start-bg::after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 300px;
+  background: linear-gradient(to bottom,
+      rgba(51, 51, 51, 0.116),
+      var(--dark-green));
+  pointer-events: none;
+  content: "";
+}
+
+/* ----- Home Message ----- */
+.home-message {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 20px 20px;
+  background: var(--footer-black);
+  box-shadow: 0 -8px 6px -6px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
+
+.home-message .button-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
+
+/* ----- Community Links ----- */
+a:link {
+  text-decoration: none;
+  color: var(--green);
+}
+
+.weblinks {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 10px;
+  padding: 0 20px;
+}
+
+.weblinks p {
+  margin: 0;
+  font-size: var(--size-body);
+}
+
+.weblinks button {
+  width: 200px;
+  min-width: 200px;
+}
+
+/* ----- Submission Section ----- */
+.submission {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.submission p {
+  margin-bottom: 1rem;
+}
+
+.submission ol {
+  display: inline-block;
+  margin: 0 auto;
+  padding-left: 1.5rem;
+  text-align: left;
+}
+
+.submission li {
+  margin-bottom: 0.5rem;
+}
+
+/* ========== 6. Media Section ========== */
+
+/* ----- Media Container ----- */
+.media-section {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  gap: clamp(10px, 2vw, 20px);
+  align-items: stretch;
+  max-width: 1400px;
+  width: 100%;
+  margin: 40px auto;
+  padding: 0 clamp(10px, 2vw, 30px);
+}
+
+/* ----- Video Container ----- */
+.video-container {
+  position: relative;
+  width: 100%;
+  height: auto;
+  align-self: stretch;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: var(--black);
+  border-radius: 8px;
+  box-shadow: 0 30px 40px rgba(0, 0, 0, 0.6);
+}
+
+.video-container video {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background: var(--black);
+  border-radius: 12px;
+}
+
+/* ----- Photo Column ----- */
+.photo-column {
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  gap: clamp(8px, 1.5vw, 20px);
+  align-self: stretch;
+  height: 100%;
+}
+
+.photo-column img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 20px 20px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.photo-column img:hover {
+  transform: scale(1.03);
+}
+
+/* ========== 7. Search & Filter ========== */
+
+/* ----- Search Container ----- */
+.search-container {
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.search-wrapper {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ----- Search Box ----- */
+.search-box {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  background: var(--white);
+  border-radius: 8px;
+  border: 1.8px solid var(--grey);
+  transition: border-color var(--transition);
+}
+
+.search-box:focus-within {
+  border-color: var(--green);
+}
+
+.search-box input {
+  flex: 1;
+  padding: 12px 16px;
+  font-size: 14px;
+  border: none;
+  background: transparent;
+  outline: none;
+}
+
+.search-box input::placeholder {
+  color: var(--grey);
+}
+
+/* ----- Search Button ----- */
+.search-btn {
+  padding: 12px 16px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  transition: color var(--transition);
+}
+
+.search-btn:hover {
+  color: var(--darkest-green);
+}
+
+/* ----- Filter Dropdown ----- */
+.filter-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.filter-btn {
+  padding: 13px 16px;
+  background: var(--green);
+  border: none;
+  border-radius: var(--md);
+  color: var(--white);
+  font-size: 22px;
+  cursor: pointer;
+  transition: all var(--transition);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.filter-btn:hover {
+  background: var(--dark-green);
+  transform: scale(1.05);
+}
+
+.filter-btn.active {
+  background: var(--grey-blue);
+}
+
+/* ----- Filter Dropdown Menu ----- */
+.filter-dropdown-menu {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 10px);
+  z-index: 1000;
+  display: none;
+  min-width: 280px;
+  padding: 20px;
+  background: var(--bg-light);
+  border-radius: var(--lg);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+  animation: slideDown var(--transition);
+}
+
+.filter-dropdown-menu.open {
+  display: block;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px) scale(0.95);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.filter-dropdown-menu .filter-group {
+  margin-bottom: 15px;
+}
+
+.filter-dropdown-menu .filter-group:last-of-type {
+  margin-bottom: 20px;
+}
+
+.filter-dropdown-menu .filter-group label {
+  display: block;
+  margin-bottom: 5px;
+  color: var(--grey);
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.filter-dropdown-menu .filter-group select {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 14px;
+  border: none;
+  border-radius: var(--sm);
+  background: white;
+  cursor: pointer;
+}
+
+.filter-dropdown-menu .filter-group select:focus {
+  outline: 2px solid var(--green);
+}
+
+.filter-dropdown-menu .reset-btn {
+  width: 100%;
+  padding: 10px 20px;
+  background: var(--red);
+  border: none;
+  border-radius: var(--sm);
+  color: var(--white);
+  cursor: pointer;
+  transition: all var(--transition);
+}
+
+.filter-dropdown-menu .reset-btn:hover {
+  background: var(--red-hover);
+  transform: scale(1.02);
+}
+
+/* ========== 8. Item Page ========== */
+
+/* ----- Card Rarity Borders ----- */
+.card.Blue {
+  border-color: #4a9eff;
+}
+
+.card.Dark-Blue {
+  border-color: #3f36c4;
+}
+
+.card.Purple {
+  border-color: #9b59b6;
+}
+
+.card.Red {
+  border-color: #e74c3c;
+}
+
+.card.Gold {
+  border-color: #f1c40f;
+}
+
+.card.Fools-Gold {
+  border-color: #d4a017;
+}
+
+.card.Special {
+  border-color: #2ecc71;
+}
+
+.card.Standard {
+  border-color: #95a5a6;
+}
+
+/* ----- Item Grid ----- */
+.item-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: clamp(8px, 1.5vw, 20px);
+  padding: 10px clamp(8px, 2vw, 30px);
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+/* ----- Item Wrapper ----- */
+.item-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+/* ----- Card ----- */
+.card {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border-radius: var(--md);
+  border: 2px solid var(--grey);
+  transition: all var(--transition);
+}
+
+.card img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* ----- Card States ----- */
+.card:hover {
+  border-color: var(--white);
+  transform: translateY(-5px) scale(1.02);
+}
+
+.card:not(.unavailable):hover {
+  border-color: var(--white);
+  box-shadow: 0 0 40px rgba(102, 126, 234, 0.2);
+}
+
+/* ----- Unavailable State ----- */
+.card.unavailable {
+  opacity: 0.5;
+  filter: grayscale(1);
+  border-color: var(--bg-light);
+}
+
+.card.unavailable:hover {
+  transform: translateY(-5px) scale(1.02);
+  box-shadow: none;
+  border-color: var(--bg-light);
+}
+
+.card.unavailable .name {
+  color: var(--grey-blue);
+}
+
+/* ----- Item Name ----- */
+.item-name-wrapper {
+  padding-top: 8px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.item-name-wrapper .name {
+  font-family: var(--font-item);
+  font-size: var(--size-item);
+  color: var(--grey);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.item-sub {
+  padding: 0 0 8px 0;
+  font-size: 10px;
+  color: #999;
+  text-align: center;
+  font-weight: normal;
+}
+
+/* ----- Generation Sections ----- */
+.gen-section {
+  width: 100%;
+  padding: 0 20px;
+}
+
+.gen-title {
+  padding: 10px 0 15px 0;
+  margin: 10px 0 20px 0;
+
+  color: #5cb85c;
+
+  text-shadow:
+    0 0 6px rgba(92, 184, 92, 0.7),
+    0 0 12px rgba(70, 160, 70, 0.5),
+    0 0 24px rgba(50, 130, 50, 0.35),
+    0 0 48px rgba(40, 100, 40, 0.2),
+    0 0 72px rgba(30, 70, 30, 0.1);
+
+  font-size: 28px;
+  font-weight: bold;
+  letter-spacing: 0.8px;
+  font-family: var(--font-monogram);
+
+  /* Fancy underline */
+  position: relative;
+  display: block;
+  width: 100%;
+}
+
+.gen-title::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 3.8px;
+  background: linear-gradient(to right,
+      var(--green),
+      transparent 80%);
+}
+
+.col-section {
+  margin-bottom: 10px;
+}
+
+/* ----- Stats ----- */
+.stats {
+  padding: 10px;
+  margin: 0 20px;
+  color: var(--white);
+  text-align: center;
+  font-size: 14px;
+}
+
+/* ----- Utility Classes ----- */
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ========== 9. Animations ========== */
+
+/* ----- Image Reveal Animation ----- */
+.imageReveal {
+  animation: imageReveal both;
+  animation-timeline: view(65% 60%);
+}
+
+@keyframes imageReveal {
+  from {
+    filter: saturate(0) contrast(4) brightness(0.1) blur(5px);
+    opacity: 0;
+    scale: 0.95;
+    translate: 0 4rem;
+  }
+
+  to {
+    filter: none;
+    opacity: 1;
+    scale: 1;
+    translate: 0 0;
+  }
+}
+
+/* ----- Fade Up Animation ----- */
+.fadeUp {
+  animation: fadeUp both;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px) scale(0.5);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* ========== 10. Responsive Design ========== */
+
+@media (max-width: 900px) {
+  .media-section {
+    grid-template-columns: 1fr;
+  }
+
+  .photo-column {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .home-message .button-group {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .home-message button {
+    width: 100%;
+    max-width: 250px;
+  }
+}
