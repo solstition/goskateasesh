@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <title>ITEMS</title>
+</head>
+<body>
+    <!--- Hero Image --->
+     <header class="w3-container w3-center start-bg"></header>   
+
+    <!--- Navigation Bar -->
+    <div id="navbar">
+        <a href="index.html" data-hover="sesh.">go skate.</a>
+        <a href="items.html" class="active">items</a>
+        <a href="checklist.html">checklist</a>
+        <a href="credits.html">credit</a>
+    </div>
+
+    <!-- Search Bar with Filter Dropdown -->
+    <div class="search-container">
+        <div class="search-wrapper">
+
+            <!-- Search Box -->
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search an item by name..." onkeyup="filterItems()">
+                <button class="search-btn" onclick="filterItems()">
+                    <i class="fas fa-search"></i>
+                </button>
+            </div>
+
+            <!-- Filter: Dropdown Button -->
+            <div class="filter-dropdown">
+                <button class="filter-btn" id="filterToggleBtn" onclick="toggleFilterDropdown()">
+                    <i class="fas fa-sliders-h"></i>
+                </button>
+
+                <!-- Filters -->
+                <div id="filterDropdown" class="filter-dropdown-menu">
+                    <!-- Filter by Item Type -->
+                    <div class="filter-group">
+                        <label>Type</label>
+                        <select id="typeFilter" onchange="filterItems()">
+                            <option value="all">All Types</option>
+                            <option value="Deck">Decks</option>
+                            <option value="Grip">Grips</option>
+                            <option value="Trucks">Trucks</option>
+                            <option value="Wheels">Wheels</option>
+                            <option value="Set">Sets</option>
+                        </select>
+                    </div>
+                    
+                    <!-- Filter by Rarity -->
+                    <div class="filter-group">
+                        <label>Rarity</label>
+                        <select id="rarityFilter" onchange="filterItems()">
+                            <option value="all">All Rarities</option>
+                            <option value="Blue">Blue</option>
+                            <option value="Dark Blue">Dark Blue</option>
+                            <option value="Purple">Purple</option>
+                            <option value="Red">Red</option>
+                            <option value="Gold">Gold</option>
+                            <option value="Fools Gold">Fools Gold</option>
+                            <option value="Standard">Standard</option>
+                            <option value="Special">Special</option>
+                        </select>
+                    </div>
+                    
+                    <!-- Filter by Generation Type -->
+                    <div class="filter-group">
+                        <label>Generation</label>
+                        <select id="genFilter" onchange="filterItems()">
+                            <option value="all">All Generations</option>
+                            <option value="1">Gen 1</option>
+                            <option value="2">Gen 2</option>
+                            <option value="3">Gen 3</option>
+                            <option value="4">Gen 4</option>
+                            <option value="5">Gen 5</option>
+                            <option value="6">Gen 6</option>
+                            <option value="7">Gen 7</option>
+                            <option value="8">Gen 8</option>
+                            <option value="8">Gen 9</option>
+                        </select>
+                    </div>
+
+                    <!-- Note to self: Might add filter by collection later > needa update json first -->
+                    <!-- Note to self: Might add filter by item properties later > needa update json first -->
+                    
+                    <!-- Filter: Reset Button -->
+                    <button onclick="resetFilters()" class="reset-btn">Reset Filters</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Items Grid -->
+    <div class="items-grid" id="itemsGrid"></div>
+
+    <br><br>
+
+    <div class="home-message">
+        <h2 style="text-align: center;">sesh - a game by pool productions.</h2>
+    </div>
+
+    <script src="main.js"></script>
+    <script src="items.js"></script>
+
+
+</body>
+</html>
