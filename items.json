@@ -1,0 +1,4182 @@
+[
+  {
+    "ID": "GH101",
+    "Name": "Immersed",
+    "Type": "Deck",
+    "Rarity": "Blue",
+    "Generation": 1,
+    "Collection": "Greenhouse",
+    "Image Path": "Assets/Items/GH101.png",
+    "": ""
+  },
+  {
+    "ID": "GH102",
+    "Name": "Grained",
+    "Type": "Grip",
+    "Rarity": "Blue",
+    "Generation": 1,
+    "Collection": "Greenhouse",
+    "Image Path": "Assets/Items/GH102.png",
+    "": ""
+  },
+  {
+    "ID": "GH103",
+    "Name": "Aced",
+    "Type": "Trucks",
+    "Rarity": "Blue",
+    "Generation": 1,
+    "Collection": "Greenhouse",
+    "Image Path": "Assets/Items/GH103.png",
+    "": ""
+  },
+  {
+    "ID": "GH104",
+    "Name": "Skidded",
+    "Type": "Wheels",
+    "Rarity": "Blue",
+    "Generation": 1,
+    "Collection": "Greenhouse",
+    "Image Path": "Assets/Items/GH104.png",
+    "": ""
+  },
+  {
+    "ID": "GH105",
+    "Name": "Pieced",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 1,
+    "Collection": "Greenhouse",
+    "Image Path": "Assets/Items/GH105.png",
+    "": ""
+  },
+  {
+    "ID": "GH106",
+    "Name": "Starred",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 1,
+    "Collection": "Greenhouse",
+    "Image Path": "Assets/Items/GH106.png",
+    "": ""
+  },
+  {
+    "ID": "GH107",
+    "Name": "Bronzed",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 1,
+    "Collection": "Greenhouse",
+    "Image Path": "Assets/Items/GH107.png",
+    "": ""
+  },
+  {
+    "ID": "GH108",
+    "Name": "Initiative",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 1,
+    "Collection": "Greenhouse",
+    "Image Path": "Assets/Items/GH108.png",
+    "": ""
+  },
+  {
+    "ID": "GH109",
+    "Name": "Violet Inkblot",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 1,
+    "Collection": "Greenhouse",
+    "Image Path": "Assets/Items/GH109.png",
+    "": ""
+  },
+  {
+    "ID": "GH110",
+    "Name": "Shroomy",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 1,
+    "Collection": "Greenhouse",
+    "Image Path": "Assets/Items/GH110.png",
+    "": ""
+  },
+  {
+    "ID": "GH111",
+    "Name": "Thrown",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 1,
+    "Collection": "Greenhouse",
+    "Image Path": "Assets/Items/GH111.png",
+    "": ""
+  },
+  {
+    "ID": "GH112",
+    "Name": "Green Hollows",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 1,
+    "Collection": "Greenhouse",
+    "Image Path": "Assets/Items/GH112.png",
+    "": ""
+  },
+  {
+    "ID": "GH113",
+    "Name": "Pinkys",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 1,
+    "Collection": "Greenhouse",
+    "Image Path": "Assets/Items/GH113.png",
+    "": ""
+  },
+  {
+    "ID": "GH114",
+    "Name": "Catz",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 1,
+    "Collection": "Greenhouse",
+    "Image Path": "Assets/Items/GH114.png",
+    "": ""
+  },
+  {
+    "ID": "GH115",
+    "Name": "Smooch",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": 1,
+    "Collection": "Greenhouse",
+    "Image Path": "Assets/Items/GH115.png",
+    "": ""
+  },
+  {
+    "ID": "GH116",
+    "Name": "Purple Hollows",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 1,
+    "Collection": "Greenhouse",
+    "Image Path": "Assets/Items/GH116.png",
+    "": ""
+  },
+  {
+    "ID": "GH117",
+    "Name": "Deals",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 1,
+    "Collection": "Greenhouse",
+    "Image Path": "Assets/Items/GH117.png",
+    "": ""
+  },
+  {
+    "ID": "GH118",
+    "Name": "Postal",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": 1,
+    "Collection": "Greenhouse",
+    "Image Path": "Assets/Items/GH118.png",
+    "": ""
+  },
+  {
+    "ID": "PS101",
+    "Name": "Mothlady",
+    "Type": "Deck",
+    "Rarity": "Blue",
+    "Generation": 1,
+    "Collection": "Printshop",
+    "Image Path": "Assets/Items/PS101.png",
+    "": ""
+  },
+  {
+    "ID": "PS102",
+    "Name": "Lowkey",
+    "Type": "Grip",
+    "Rarity": "Blue",
+    "Generation": 1,
+    "Collection": "Printshop",
+    "Image Path": "Assets/Items/PS102.png",
+    "": ""
+  },
+  {
+    "ID": "PS103",
+    "Name": "Bug Basics",
+    "Type": "Trucks",
+    "Rarity": "Blue",
+    "Generation": 1,
+    "Collection": "Printshop",
+    "Image Path": "Assets/Items/PS103.png",
+    "": ""
+  },
+  {
+    "ID": "PS104",
+    "Name": "Cherry Basics",
+    "Type": "Wheels",
+    "Rarity": "Blue",
+    "Generation": 1,
+    "Collection": "Printshop",
+    "Image Path": "Assets/Items/PS104.png",
+    "": ""
+  },
+  {
+    "ID": "PS105",
+    "Name": "Hot Spring",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 1,
+    "Collection": "Printshop",
+    "Image Path": "Assets/Items/PS105.png",
+    "": ""
+  },
+  {
+    "ID": "PS106",
+    "Name": "Yellow Stripe",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 1,
+    "Collection": "Printshop",
+    "Image Path": "Assets/Items/PS106.png",
+    "": ""
+  },
+  {
+    "ID": "PS107",
+    "Name": "Bug Purples",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 1,
+    "Collection": "Printshop",
+    "Image Path": "Assets/Items/PS107.png",
+    "": ""
+  },
+  {
+    "ID": "PS108",
+    "Name": "Cherry Blacks",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 1,
+    "Collection": "Printshop",
+    "Image Path": "Assets/Items/PS108.png",
+    "": ""
+  },
+  {
+    "ID": "PS109",
+    "Name": "Green Calx",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 1,
+    "Collection": "Printshop",
+    "Image Path": "Assets/Items/PS109.png",
+    "": ""
+  },
+  {
+    "ID": "PS110",
+    "Name": "Twins",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 1,
+    "Collection": "Printshop",
+    "Image Path": "Assets/Items/PS110.png",
+    "": ""
+  },
+  {
+    "ID": "PS111",
+    "Name": "God Dog",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 1,
+    "Collection": "Printshop",
+    "Image Path": "Assets/Items/PS111.png",
+    "": ""
+  },
+  {
+    "ID": "PS112",
+    "Name": "Bug Greens",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 1,
+    "Collection": "Printshop",
+    "Image Path": "Assets/Items/PS112.png",
+    "": ""
+  },
+  {
+    "ID": "PS113",
+    "Name": "Cherry Swirl",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 1,
+    "Collection": "Printshop",
+    "Image Path": "Assets/Items/PS113.png",
+    "": ""
+  },
+  {
+    "ID": "PS114",
+    "Name": "Death Squad",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 1,
+    "Collection": "Printshop",
+    "Image Path": "Assets/Items/PS114.png",
+    "": ""
+  },
+  {
+    "ID": "PS115",
+    "Name": "Pink Tie Dye",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": 1,
+    "Collection": "Printshop",
+    "Image Path": "Assets/Items/PS115.png",
+    "": ""
+  },
+  {
+    "ID": "PS116",
+    "Name": "Bug Webbed",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 1,
+    "Collection": "Printshop",
+    "Image Path": "Assets/Items/PS116.png",
+    "": ""
+  },
+  {
+    "ID": "PS117",
+    "Name": "Cherry Blues",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 1,
+    "Collection": "Printshop",
+    "Image Path": "Assets/Items/PS117.png",
+    "": ""
+  },
+  {
+    "ID": "PS118",
+    "Name": "Masked",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": 1,
+    "Collection": "Printshop",
+    "Image Path": "Assets/Items/PS118.png",
+    "": ""
+  },
+  {
+    "ID": "PXK201",
+    "Name": "Bees",
+    "Type": "Deck",
+    "Rarity": "Blue",
+    "Generation": 2,
+    "Collection": "Paxk",
+    "Image Path": "Assets/Items/PXK201.png",
+    "": ""
+  },
+  {
+    "ID": "PXK202",
+    "Name": "Paxk Logo",
+    "Type": "Grip",
+    "Rarity": "Blue",
+    "Generation": 2,
+    "Collection": "Paxk",
+    "Image Path": "Assets/Items/PXK202.png",
+    "": ""
+  },
+  {
+    "ID": "PXK203",
+    "Name": "Baby Blues",
+    "Type": "Trucks",
+    "Rarity": "Blue",
+    "Generation": 2,
+    "Collection": "Paxk",
+    "Image Path": "Assets/Items/PXK203.png",
+    "": ""
+  },
+  {
+    "ID": "PXK204",
+    "Name": "Sketch",
+    "Type": "Wheels",
+    "Rarity": "Blue",
+    "Generation": 2,
+    "Collection": "Paxk",
+    "Image Path": "Assets/Items/PXK204.png",
+    "": ""
+  },
+  {
+    "ID": "PXK205",
+    "Name": "Growl",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 2,
+    "Collection": "Paxk",
+    "Image Path": "Assets/Items/PXK205.png",
+    "": ""
+  },
+  {
+    "ID": "PXK206",
+    "Name": "Stacked",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 2,
+    "Collection": "Paxk",
+    "Image Path": "Assets/Items/PXK206.png",
+    "": ""
+  },
+  {
+    "ID": "PXK207",
+    "Name": "Pinkies",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 2,
+    "Collection": "Paxk",
+    "Image Path": "Assets/Items/PXK207.png",
+    "": ""
+  },
+  {
+    "ID": "PXK208",
+    "Name": "Hypnosis",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 2,
+    "Collection": "Paxk",
+    "Image Path": "Assets/Items/PXK208.png",
+    "": ""
+  },
+  {
+    "ID": "PXK209",
+    "Name": "Feather Dance",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 2,
+    "Collection": "Paxk",
+    "Image Path": "Assets/Items/PXK209.png",
+    "": ""
+  },
+  {
+    "ID": "PXK210",
+    "Name": "Amaranth",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 2,
+    "Collection": "Paxk",
+    "Image Path": "Assets/Items/PXK210.png",
+    "": ""
+  },
+  {
+    "ID": "PXK211",
+    "Name": "Blue Flames",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 2,
+    "Collection": "Paxk",
+    "Image Path": "Assets/Items/PXK211.png",
+    "": ""
+  },
+  {
+    "ID": "PXK212",
+    "Name": "Faded",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 2,
+    "Collection": "Paxk",
+    "Image Path": "Assets/Items/PXK212.png",
+    "": ""
+  },
+  {
+    "ID": "PXK213",
+    "Name": "Blue Devils",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 2,
+    "Collection": "Paxk",
+    "Image Path": "Assets/Items/PXK213.png",
+    "": ""
+  },
+  {
+    "ID": "PXK214",
+    "Name": "Warped Dance",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 2,
+    "Collection": "Paxk",
+    "Image Path": "Assets/Items/PXK214.png",
+    "": ""
+  },
+  {
+    "ID": "PXK215",
+    "Name": "Deadly",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": 2,
+    "Collection": "Paxk",
+    "Image Path": "Assets/Items/PXK215.png",
+    "": ""
+  },
+  {
+    "ID": "PXK216",
+    "Name": "Daisies",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 2,
+    "Collection": "Paxk",
+    "Image Path": "Assets/Items/PXK216.png",
+    "": ""
+  },
+  {
+    "ID": "PXK217",
+    "Name": "Leopard",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 2,
+    "Collection": "Paxk",
+    "Image Path": "Assets/Items/PXK217.png",
+    "": ""
+  },
+  {
+    "ID": "PXK218",
+    "Name": "Amphibian",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": 2,
+    "Collection": "Paxk",
+    "Image Path": "Assets/Items/PXK218.png",
+    "": ""
+  },
+  {
+    "ID": "PS201",
+    "Name": "Doll Girl",
+    "Type": "Deck",
+    "Rarity": "Blue",
+    "Generation": 2,
+    "Collection": "Printshop 2",
+    "Image Path": "Assets/Items/PS201.png",
+    "": ""
+  },
+  {
+    "ID": "PS202",
+    "Name": "Marley",
+    "Type": "Grip",
+    "Rarity": "Blue",
+    "Generation": 2,
+    "Collection": "Printshop 2",
+    "Image Path": "Assets/Items/PS202.png",
+    "": ""
+  },
+  {
+    "ID": "PS203",
+    "Name": "Black n Mild",
+    "Type": "Trucks",
+    "Rarity": "Blue",
+    "Generation": 2,
+    "Collection": "Printshop 2",
+    "Image Path": "Assets/Items/PS203.png",
+    "": ""
+  },
+  {
+    "ID": "PS204",
+    "Name": "Kitty",
+    "Type": "Wheels",
+    "Rarity": "Blue",
+    "Generation": 2,
+    "Collection": "Printshop 2",
+    "Image Path": "Assets/Items/PS204.png",
+    "": ""
+  },
+  {
+    "ID": "PS205",
+    "Name": "Critters",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 2,
+    "Collection": "Printshop 2",
+    "Image Path": "Assets/Items/PS205.png",
+    "": ""
+  },
+  {
+    "ID": "PS206",
+    "Name": "Biggie",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 2,
+    "Collection": "Printshop 2",
+    "Image Path": "Assets/Items/PS206.png",
+    "": ""
+  },
+  {
+    "ID": "PS207",
+    "Name": "Big Head",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 2,
+    "Collection": "Printshop 2",
+    "Image Path": "Assets/Items/PS207.png",
+    "": ""
+  },
+  {
+    "ID": "PS208",
+    "Name": "Chill",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 2,
+    "Collection": "Printshop 2",
+    "Image Path": "Assets/Items/PS208.png",
+    "": ""
+  },
+  {
+    "ID": "PS209",
+    "Name": "Creep",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 2,
+    "Collection": "Printshop 2",
+    "Image Path": "Assets/Items/PS209.png",
+    "": ""
+  },
+  {
+    "ID": "PS210",
+    "Name": "Red Camo",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 2,
+    "Collection": "Printshop 2",
+    "Image Path": "Assets/Items/PS210.png",
+    "": ""
+  },
+  {
+    "ID": "PS211",
+    "Name": "Star",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 2,
+    "Collection": "Printshop 2",
+    "Image Path": "Assets/Items/PS211.png",
+    "": ""
+  },
+  {
+    "ID": "PS212",
+    "Name": "Wings",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 2,
+    "Collection": "Printshop 2",
+    "Image Path": "Assets/Items/PS212.png",
+    "": ""
+  },
+  {
+    "ID": "PS213",
+    "Name": "Smokey Dipped",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 2,
+    "Collection": "Printshop 2",
+    "Image Path": "Assets/Items/PS213.png",
+    "": ""
+  },
+  {
+    "ID": "PS214",
+    "Name": "BirdBolt",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 2,
+    "Collection": "Printshop 2",
+    "Image Path": "Assets/Items/PS214.png",
+    "": ""
+  },
+  {
+    "ID": "PS215",
+    "Name": "Barbed",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": 2,
+    "Collection": "Printshop 2",
+    "Image Path": "Assets/Items/PS215.png",
+    "": ""
+  },
+  {
+    "ID": "PS216",
+    "Name": "Red Basics",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 2,
+    "Collection": "Printshop 2",
+    "Image Path": "Assets/Items/PS216.png",
+    "": ""
+  },
+  {
+    "ID": "PS217",
+    "Name": "Black and Blue",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 2,
+    "Collection": "Printshop 2",
+    "Image Path": "Assets/Items/PS217.png",
+    "": ""
+  },
+  {
+    "ID": "PS218",
+    "Name": "Wicked",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": 2,
+    "Collection": "Printshop 2",
+    "Image Path": "Assets/Items/PS218.png",
+    "": ""
+  },
+  {
+    "ID": "FSG201",
+    "Name": "Point Blonk",
+    "Type": "Deck",
+    "Rarity": "Fools Gold",
+    "Generation": 2,
+    "Collection": "Fools Gold",
+    "Image Path": "Assets/Items/FSG201.png",
+    "": ""
+  },
+  {
+    "ID": "FSG202",
+    "Name": "Blud Monies",
+    "Type": "Deck",
+    "Rarity": "Fools Gold",
+    "Generation": 2,
+    "Collection": "Fools Gold",
+    "Image Path": "Assets/Items/FSG202.png",
+    "": ""
+  },
+  {
+    "ID": "FSG203",
+    "Name": "IIIusion",
+    "Type": "Deck",
+    "Rarity": "Fools Gold",
+    "Generation": 2,
+    "Collection": "Fools Gold",
+    "Image Path": "Assets/Items/FSG203.png",
+    "": ""
+  },
+  {
+    "ID": "FSG204",
+    "Name": "Sprung",
+    "Type": "Deck",
+    "Rarity": "Fools Gold",
+    "Generation": 2,
+    "Collection": "Fools Gold",
+    "Image Path": "Assets/Items/FSG204.png",
+    "": ""
+  },
+  {
+    "ID": "FSG205",
+    "Name": "Concealed",
+    "Type": "Deck",
+    "Rarity": "Fools Gold",
+    "Generation": 2,
+    "Collection": "Fools Gold",
+    "Image Path": "Assets/Items/FSG205.png",
+    "": ""
+  },
+  {
+    "ID": "FSG206",
+    "Name": "Durr",
+    "Type": "Deck",
+    "Rarity": "Fools Gold",
+    "Generation": 2,
+    "Collection": "Fools Gold",
+    "Image Path": "Assets/Items/FSG206.png",
+    "": ""
+  },
+  {
+    "ID": "FSG207",
+    "Name": "Palms",
+    "Type": "Deck",
+    "Rarity": "Fools Gold",
+    "Generation": 2,
+    "Collection": "Fools Gold",
+    "Image Path": "Assets/Items/FSG207.png",
+    "": ""
+  },
+  {
+    "ID": "FSG208",
+    "Name": "Weakid",
+    "Type": "Deck",
+    "Rarity": "Fools Gold",
+    "Generation": 2,
+    "Collection": "Fools Gold",
+    "Image Path": "Assets/Items/FSG208.png",
+    "": ""
+  },
+  {
+    "ID": "FSG209",
+    "Name": "Sul",
+    "Type": "Deck",
+    "Rarity": "Fools Gold",
+    "Generation": 2,
+    "Collection": "Fools Gold",
+    "Image Path": "Assets/Items/FSG209.png",
+    "": ""
+  },
+  {
+    "ID": "FSG210",
+    "Name": "Frog",
+    "Type": "Deck",
+    "Rarity": "Fools Gold",
+    "Generation": 2,
+    "Collection": "Fools Gold",
+    "Image Path": "Assets/Items/FSG210.png",
+    "": ""
+  },
+  {
+    "ID": "FSG211",
+    "Name": "Poostal",
+    "Type": "Deck",
+    "Rarity": "Fools Gold",
+    "Generation": 2,
+    "Collection": "Fools Gold",
+    "Image Path": "Assets/Items/FSG211.png",
+    "": ""
+  },
+  {
+    "ID": "FF301",
+    "Name": "Lakeside",
+    "Type": "Deck",
+    "Rarity": "Blue",
+    "Generation": 3,
+    "Collection": "Funfetti",
+    "Image Path": "Assets/Items/FF301.png",
+    "": ""
+  },
+  {
+    "ID": "FF302",
+    "Name": "Floral",
+    "Type": "Grip",
+    "Rarity": "Blue",
+    "Generation": 3,
+    "Collection": "Funfetti",
+    "Image Path": "Assets/Items/FF302.png",
+    "": ""
+  },
+  {
+    "ID": "FF303",
+    "Name": "Black Iron",
+    "Type": "Trucks",
+    "Rarity": "Blue",
+    "Generation": 3,
+    "Collection": "Funfetti",
+    "Image Path": "Assets/Items/FF303.png",
+    "": ""
+  },
+  {
+    "ID": "FF304",
+    "Name": "Ember",
+    "Type": "Wheels",
+    "Rarity": "Blue",
+    "Generation": 3,
+    "Collection": "Funfetti",
+    "Image Path": "Assets/Items/FF304.png",
+    "": ""
+  },
+  {
+    "ID": "FF305",
+    "Name": "Thermal",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 3,
+    "Collection": "Funfetti",
+    "Image Path": "Assets/Items/FF305.png",
+    "": ""
+  },
+  {
+    "ID": "FF306",
+    "Name": "Tagged",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 3,
+    "Collection": "Funfetti",
+    "Image Path": "Assets/Items/FF306.png",
+    "": ""
+  },
+  {
+    "ID": "FF307",
+    "Name": "Discarded",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 3,
+    "Collection": "Funfetti",
+    "Image Path": "Assets/Items/FF307.png",
+    "": ""
+  },
+  {
+    "ID": "FF308",
+    "Name": "Dial",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 3,
+    "Collection": "Funfetti",
+    "Image Path": "Assets/Items/FF308.png",
+    "": ""
+  },
+  {
+    "ID": "FF309",
+    "Name": "Performance",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 3,
+    "Collection": "Funfetti",
+    "Image Path": "Assets/Items/FF309.png",
+    "": ""
+  },
+  {
+    "ID": "FF310",
+    "Name": "Lather",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 3,
+    "Collection": "Funfetti",
+    "Image Path": "Assets/Items/FF310.png",
+    "": ""
+  },
+  {
+    "ID": "FF311",
+    "Name": "Jesting",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 3,
+    "Collection": "Funfetti",
+    "Image Path": "Assets/Items/FF311.png",
+    "": ""
+  },
+  {
+    "ID": "FF312",
+    "Name": "Burnt",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 3,
+    "Collection": "Funfetti",
+    "Image Path": "Assets/Items/FF312.png",
+    "": ""
+  },
+  {
+    "ID": "FF313",
+    "Name": "Ray",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 3,
+    "Collection": "Funfetti",
+    "Image Path": "Assets/Items/FF313.png",
+    "": ""
+  },
+  {
+    "ID": "FF314",
+    "Name": "Spy",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 3,
+    "Collection": "Funfetti",
+    "Image Path": "Assets/Items/FF314.png",
+    "": ""
+  },
+  {
+    "ID": "FF315",
+    "Name": "Infrared",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": 3,
+    "Collection": "Funfetti",
+    "Image Path": "Assets/Items/FF315.png",
+    "": ""
+  },
+  {
+    "ID": "FF316",
+    "Name": "Firework",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 3,
+    "Collection": "Funfetti",
+    "Image Path": "Assets/Items/FF316.png",
+    "": ""
+  },
+  {
+    "ID": "FF317",
+    "Name": "Candy",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 3,
+    "Collection": "Funfetti",
+    "Image Path": "Assets/Items/FF317.png",
+    "": ""
+  },
+  {
+    "ID": "FF318",
+    "Name": "Hands",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": 3,
+    "Collection": "Funfetti",
+    "Image Path": "Assets/Items/FF318.png",
+    "": ""
+  },
+  {
+    "ID": "BFS301",
+    "Name": "Boofy Boy",
+    "Type": "Deck",
+    "Rarity": "Blue",
+    "Generation": 3,
+    "Collection": "Boofs",
+    "Image Path": "Assets/Items/BFS301.png",
+    "": ""
+  },
+  {
+    "ID": "BFS302",
+    "Name": "Big Head",
+    "Type": "Grip",
+    "Rarity": "Blue",
+    "Generation": 3,
+    "Collection": "Boofs",
+    "Image Path": "Assets/Items/BFS302.png",
+    "": ""
+  },
+  {
+    "ID": "BFS303",
+    "Name": "Black Basics",
+    "Type": "Trucks",
+    "Rarity": "Blue",
+    "Generation": 3,
+    "Collection": "Boofs",
+    "Image Path": "Assets/Items/BFS303.png",
+    "": ""
+  },
+  {
+    "ID": "BFS304",
+    "Name": "Blue Split",
+    "Type": "Wheels",
+    "Rarity": "Blue",
+    "Generation": 3,
+    "Collection": "Boofs",
+    "Image Path": "Assets/Items/BFS304.png",
+    "": ""
+  },
+  {
+    "ID": "BFS305",
+    "Name": "Rock Out",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 3,
+    "Collection": "Boofs",
+    "Image Path": "Assets/Items/BFS305.png",
+    "": ""
+  },
+  {
+    "ID": "BFS306",
+    "Name": "Checkerboard",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 3,
+    "Collection": "Boofs",
+    "Image Path": "Assets/Items/BFS306.png",
+    "": ""
+  },
+  {
+    "ID": "BFS307",
+    "Name": "Tribal",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 3,
+    "Collection": "Boofs",
+    "Image Path": "Assets/Items/BFS307.png",
+    "": ""
+  },
+  {
+    "ID": "BFS308",
+    "Name": "White Split",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 3,
+    "Collection": "Boofs",
+    "Image Path": "Assets/Items/BFS308.png",
+    "": ""
+  },
+  {
+    "ID": "BFS309",
+    "Name": "Reapin",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 3,
+    "Collection": "Boofs",
+    "Image Path": "Assets/Items/BFS309.png",
+    "": ""
+  },
+  {
+    "ID": "BFS310",
+    "Name": "Webbed",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 3,
+    "Collection": "Boofs",
+    "Image Path": "Assets/Items/BFS310.png",
+    "": ""
+  },
+  {
+    "ID": "BFS311",
+    "Name": "Red Checker",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 3,
+    "Collection": "Boofs",
+    "Image Path": "Assets/Items/BFS311.png",
+    "": ""
+  },
+  {
+    "ID": "BFS312",
+    "Name": "Bricked",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 3,
+    "Collection": "Boofs",
+    "Image Path": "Assets/Items/BFS312.png",
+    "": ""
+  },
+  {
+    "ID": "BFS313",
+    "Name": "Green Swirl",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 3,
+    "Collection": "Boofs",
+    "Image Path": "Assets/Items/BFS313.png",
+    "": ""
+  },
+  {
+    "ID": "BFS314",
+    "Name": "Sketchy Boy",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 3,
+    "Collection": "Boofs",
+    "Image Path": "Assets/Items/BFS314.png",
+    "": ""
+  },
+  {
+    "ID": "BFS315",
+    "Name": "Big Boof",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": 3,
+    "Collection": "Boofs",
+    "Image Path": "Assets/Items/BFS315.png",
+    "": ""
+  },
+  {
+    "ID": "BFS316",
+    "Name": "Flaming Skull",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 3,
+    "Collection": "Boofs",
+    "Image Path": "Assets/Items/BFS316.png",
+    "": ""
+  },
+  {
+    "ID": "BFS317",
+    "Name": "Red Swirl",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 3,
+    "Collection": "Boofs",
+    "Image Path": "Assets/Items/BFS317.png",
+    "": ""
+  },
+  {
+    "ID": "BFS318",
+    "Name": "Point Blank",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": 3,
+    "Collection": "Boofs",
+    "Image Path": "Assets/Items/BFS318.png",
+    "": ""
+  },
+  {
+    "ID": "BC401",
+    "Name": "Goulish",
+    "Type": "Deck",
+    "Rarity": "Blue",
+    "Generation": 4,
+    "Collection": "Black Cat",
+    "Image Path": "Assets/Items/BC401.png",
+    "": ""
+  },
+  {
+    "ID": "BC402",
+    "Name": "Jack",
+    "Type": "Grip",
+    "Rarity": "Blue",
+    "Generation": 4,
+    "Collection": "Black Cat",
+    "Image Path": "Assets/Items/BC402.png",
+    "": ""
+  },
+  {
+    "ID": "BC403",
+    "Name": "Neural",
+    "Type": "Trucks",
+    "Rarity": "Blue",
+    "Generation": 4,
+    "Collection": "Black Cat",
+    "Image Path": "Assets/Items/BC403.png",
+    "": ""
+  },
+  {
+    "ID": "BC404",
+    "Name": "Batted",
+    "Type": "Wheels",
+    "Rarity": "Blue",
+    "Generation": 4,
+    "Collection": "Black Cat",
+    "Image Path": "Assets/Items/BC404.png",
+    "": ""
+  },
+  {
+    "ID": "BC405",
+    "Name": "A Forest",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 4,
+    "Collection": "Black Cat",
+    "Image Path": "Assets/Items/BC405.png",
+    "": ""
+  },
+  {
+    "ID": "BC406",
+    "Name": "Cage",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 4,
+    "Collection": "Black Cat",
+    "Image Path": "Assets/Items/BC406.png",
+    "": ""
+  },
+  {
+    "ID": "BC407",
+    "Name": "Infection",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 4,
+    "Collection": "Black Cat",
+    "Image Path": "Assets/Items/BC407.png",
+    "": ""
+  },
+  {
+    "ID": "BC408",
+    "Name": "Presence",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 4,
+    "Collection": "Black Cat",
+    "Image Path": "Assets/Items/BC408.png",
+    "": ""
+  },
+  {
+    "ID": "BC409",
+    "Name": "Moonman",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 4,
+    "Collection": "Black Cat",
+    "Image Path": "Assets/Items/BC409.png",
+    "": ""
+  },
+  {
+    "ID": "BC410",
+    "Name": "Phalanx",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 4,
+    "Collection": "Black Cat",
+    "Image Path": "Assets/Items/BC410.png",
+    "": ""
+  },
+  {
+    "ID": "BC411",
+    "Name": "Red Webbed",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 4,
+    "Collection": "Black Cat",
+    "Image Path": "Assets/Items/BC411.png",
+    "": ""
+  },
+  {
+    "ID": "BC412",
+    "Name": "Bug Eyed",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 4,
+    "Collection": "Black Cat",
+    "Image Path": "Assets/Items/BC412.png",
+    "": ""
+  },
+  {
+    "ID": "BC413",
+    "Name": "Cycles",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 4,
+    "Collection": "Black Cat",
+    "Image Path": "Assets/Items/BC413.png",
+    "": ""
+  },
+  {
+    "ID": "BC414",
+    "Name": "Spinal",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 4,
+    "Collection": "Black Cat",
+    "Image Path": "Assets/Items/BC414.png",
+    "": ""
+  },
+  {
+    "ID": "BC415",
+    "Name": "Artery",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": 4,
+    "Collection": "Black Cat",
+    "Image Path": "Assets/Items/BC415.png",
+    "": ""
+  },
+  {
+    "ID": "BC416",
+    "Name": "Gnaw",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 4,
+    "Collection": "Black Cat",
+    "Image Path": "Assets/Items/BC416.png",
+    "": ""
+  },
+  {
+    "ID": "BC417",
+    "Name": "Cerebrum",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 4,
+    "Collection": "Black Cat",
+    "Image Path": "Assets/Items/BC417.png",
+    "": ""
+  },
+  {
+    "ID": "BC418",
+    "Name": "Machination",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": 4,
+    "Collection": "Black Cat",
+    "Image Path": "Assets/Items/BC418.png",
+    "": ""
+  },
+  {
+    "ID": "LCH401",
+    "Name": "Psycho",
+    "Type": "Deck",
+    "Rarity": "Blue",
+    "Generation": 4,
+    "Collection": "Lurch",
+    "Image Path": "Assets/Items/LCH401.png",
+    "": ""
+  },
+  {
+    "ID": "LCH402",
+    "Name": "Eyes",
+    "Type": "Grip",
+    "Rarity": "Blue",
+    "Generation": 4,
+    "Collection": "Lurch",
+    "Image Path": "Assets/Items/LCH402.png",
+    "": ""
+  },
+  {
+    "ID": "LCH403",
+    "Name": "Enchanted",
+    "Type": "Trucks",
+    "Rarity": "Blue",
+    "Generation": 4,
+    "Collection": "Lurch",
+    "Image Path": "Assets/Items/LCH403.png",
+    "": ""
+  },
+  {
+    "ID": "LCH404",
+    "Name": "Reaper",
+    "Type": "Wheels",
+    "Rarity": "Blue",
+    "Generation": 4,
+    "Collection": "Lurch",
+    "Image Path": "Assets/Items/LCH404.png",
+    "": ""
+  },
+  {
+    "ID": "LCH405",
+    "Name": "Machinist",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 4,
+    "Collection": "Lurch",
+    "Image Path": "Assets/Items/LCH405.png",
+    "": ""
+  },
+  {
+    "ID": "LCH406",
+    "Name": "Etched",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 4,
+    "Collection": "Lurch",
+    "Image Path": "Assets/Items/LCH406.png",
+    "": ""
+  },
+  {
+    "ID": "LCH407",
+    "Name": "Starred",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 4,
+    "Collection": "Lurch",
+    "Image Path": "Assets/Items/LCH407.png",
+    "": ""
+  },
+  {
+    "ID": "LCH408",
+    "Name": "Centipede",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 4,
+    "Collection": "Lurch",
+    "Image Path": "Assets/Items/LCH408.png",
+    "": ""
+  },
+  {
+    "ID": "LCH409",
+    "Name": "Cryptic",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 4,
+    "Collection": "Lurch",
+    "Image Path": "Assets/Items/LCH409.png",
+    "": ""
+  },
+  {
+    "ID": "LCH410",
+    "Name": "Skull N Bones",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 4,
+    "Collection": "Lurch",
+    "Image Path": "Assets/Items/LCH410.png",
+    "": ""
+  },
+  {
+    "ID": "LCH411",
+    "Name": "Red Skull",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 4,
+    "Collection": "Lurch",
+    "Image Path": "Assets/Items/LCH411.png",
+    "": ""
+  },
+  {
+    "ID": "LCH412",
+    "Name": "Golden Etched",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 4,
+    "Collection": "Lurch",
+    "Image Path": "Assets/Items/LCH412.png",
+    "": ""
+  },
+  {
+    "ID": "LCH413",
+    "Name": "Gourd",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 4,
+    "Collection": "Lurch",
+    "Image Path": "Assets/Items/LCH413.png",
+    "": ""
+  },
+  {
+    "ID": "LCH414",
+    "Name": "Reaper",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 4,
+    "Collection": "Lurch",
+    "Image Path": "Assets/Items/LCH414.png",
+    "": ""
+  },
+  {
+    "ID": "LCH415",
+    "Name": "Slash",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": 4,
+    "Collection": "Lurch",
+    "Image Path": "Assets/Items/LCH415.png",
+    "": ""
+  },
+  {
+    "ID": "LCH416",
+    "Name": "Blue Etched",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 4,
+    "Collection": "Lurch",
+    "Image Path": "Assets/Items/LCH416.png",
+    "": ""
+  },
+  {
+    "ID": "LCH417",
+    "Name": "Bite",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 4,
+    "Collection": "Lurch",
+    "Image Path": "Assets/Items/LCH417.png",
+    "": ""
+  },
+  {
+    "ID": "LCH418",
+    "Name": "Blood Money",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": 4,
+    "Collection": "Lurch",
+    "Image Path": "Assets/Items/LCH418.png",
+    "": ""
+  },
+  {
+    "ID": "FK501",
+    "Name": "Feline",
+    "Type": "Deck",
+    "Rarity": "Blue",
+    "Generation": 5,
+    "Collection": "Fake",
+    "Image Path": "Assets/Items/FK501.png",
+    "": ""
+  },
+  {
+    "ID": "FK502",
+    "Name": "Prints",
+    "Type": "Grip",
+    "Rarity": "Blue",
+    "Generation": 5,
+    "Collection": "Fake",
+    "Image Path": "Assets/Items/FK502.png",
+    "": ""
+  },
+  {
+    "ID": "FK503",
+    "Name": "Frown",
+    "Type": "Trucks",
+    "Rarity": "Blue",
+    "Generation": 5,
+    "Collection": "Fake",
+    "Image Path": "Assets/Items/FK503.png",
+    "": ""
+  },
+  {
+    "ID": "FK504",
+    "Name": "Sight",
+    "Type": "Wheels",
+    "Rarity": "Blue",
+    "Generation": 5,
+    "Collection": "Fake",
+    "Image Path": "Assets/Items/FK504.png",
+    "": ""
+  },
+  {
+    "ID": "FK505",
+    "Name": "Checkmate",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 5,
+    "Collection": "Fake",
+    "Image Path": "Assets/Items/FK505.png",
+    "": ""
+  },
+  {
+    "ID": "FK506",
+    "Name": "Identiy",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 5,
+    "Collection": "Fake",
+    "Image Path": "Assets/Items/FK506.png",
+    "": ""
+  },
+  {
+    "ID": "FK507",
+    "Name": "Family",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 5,
+    "Collection": "Fake",
+    "Image Path": "Assets/Items/FK507.png",
+    "": ""
+  },
+  {
+    "ID": "FK508",
+    "Name": "Mossed",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 5,
+    "Collection": "Fake",
+    "Image Path": "Assets/Items/FK508.png",
+    "": ""
+  },
+  {
+    "ID": "FK509",
+    "Name": "Libery",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 5,
+    "Collection": "Fake",
+    "Image Path": "Assets/Items/FK509.png",
+    "": ""
+  },
+  {
+    "ID": "FK510",
+    "Name": "Noise",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 5,
+    "Collection": "Fake",
+    "Image Path": "Assets/Items/FK510.png",
+    "": ""
+  },
+  {
+    "ID": "FK511",
+    "Name": "Laced",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 5,
+    "Collection": "Fake",
+    "Image Path": "Assets/Items/FK511.png",
+    "": ""
+  },
+  {
+    "ID": "FK512",
+    "Name": "Opal",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 5,
+    "Collection": "Fake",
+    "Image Path": "Assets/Items/FK512.png",
+    "": ""
+  },
+  {
+    "ID": "FK513",
+    "Name": "Blue Riptides",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 5,
+    "Collection": "Fake",
+    "Image Path": "Assets/Items/FK513.png",
+    "": ""
+  },
+  {
+    "ID": "FK514",
+    "Name": "Portrait",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 5,
+    "Collection": "Fake",
+    "Image Path": "Assets/Items/FK514.png",
+    "": ""
+  },
+  {
+    "ID": "FK515",
+    "Name": "Royal",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": 5,
+    "Collection": "Fake",
+    "Image Path": "Assets/Items/FK515.png",
+    "": ""
+  },
+  {
+    "ID": "FK516",
+    "Name": "Love",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 5,
+    "Collection": "Fake",
+    "Image Path": "Assets/Items/FK516.png",
+    "": ""
+  },
+  {
+    "ID": "FK517",
+    "Name": "Swirled",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 5,
+    "Collection": "Fake",
+    "Image Path": "Assets/Items/FK517.png",
+    "": ""
+  },
+  {
+    "ID": "FK518",
+    "Name": "Illusion",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": 5,
+    "Collection": "Fake",
+    "Image Path": "Assets/Items/FK518.png",
+    "": ""
+  },
+  {
+    "ID": "I2I501",
+    "Name": "Abomination",
+    "Type": "Deck",
+    "Rarity": "Blue",
+    "Generation": 5,
+    "Collection": "i2i",
+    "Image Path": "Assets/Items/I2I501.png",
+    "": ""
+  },
+  {
+    "ID": "I2I502",
+    "Name": "Mucky",
+    "Type": "Grip",
+    "Rarity": "Blue",
+    "Generation": 5,
+    "Collection": "i2i",
+    "Image Path": "Assets/Items/I2I502.png",
+    "": ""
+  },
+  {
+    "ID": "I2I503",
+    "Name": "Booger",
+    "Type": "Trucks",
+    "Rarity": "Blue",
+    "Generation": 5,
+    "Collection": "i2i",
+    "Image Path": "Assets/Items/I2I503.png",
+    "": ""
+  },
+  {
+    "ID": "I2I504",
+    "Name": "Squirm",
+    "Type": "Wheels",
+    "Rarity": "Blue",
+    "Generation": 5,
+    "Collection": "i2i",
+    "Image Path": "Assets/Items/I2I504.png",
+    "": ""
+  },
+  {
+    "ID": "I2I505",
+    "Name": "Massacre",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 5,
+    "Collection": "i2i",
+    "Image Path": "Assets/Items/I2I505.png",
+    "": ""
+  },
+  {
+    "ID": "I2I506",
+    "Name": "Cobalt",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 5,
+    "Collection": "i2i",
+    "Image Path": "Assets/Items/I2I506.png",
+    "": ""
+  },
+  {
+    "ID": "I2I507",
+    "Name": "Oozey",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 5,
+    "Collection": "i2i",
+    "Image Path": "Assets/Items/I2I507.png",
+    "": ""
+  },
+  {
+    "ID": "I2I508",
+    "Name": "Hopeless",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 5,
+    "Collection": "i2i",
+    "Image Path": "Assets/Items/I2I508.png",
+    "": ""
+  },
+  {
+    "ID": "I2I509",
+    "Name": "Rot",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 5,
+    "Collection": "i2i",
+    "Image Path": "Assets/Items/I2I509.png",
+    "": ""
+  },
+  {
+    "ID": "I2I510",
+    "Name": "Shredded",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 5,
+    "Collection": "i2i",
+    "Image Path": "Assets/Items/I2I510.png",
+    "": ""
+  },
+  {
+    "ID": "I2I511",
+    "Name": "Smiley",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 5,
+    "Collection": "i2i",
+    "Image Path": "Assets/Items/I2I511.png",
+    "": ""
+  },
+  {
+    "ID": "I2I512",
+    "Name": "Scarlet",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 5,
+    "Collection": "i2i",
+    "Image Path": "Assets/Items/I2I512.png",
+    "": ""
+  },
+  {
+    "ID": "I2I513",
+    "Name": "Bloom",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 5,
+    "Collection": "i2i",
+    "Image Path": "Assets/Items/I2I513.png",
+    "": ""
+  },
+  {
+    "ID": "I2I514",
+    "Name": "Occultus",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 5,
+    "Collection": "i2i",
+    "Image Path": "Assets/Items/I2I514.png",
+    "": ""
+  },
+  {
+    "ID": "I2I515",
+    "Name": "Cool S",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": 5,
+    "Collection": "i2i",
+    "Image Path": "Assets/Items/I2I515.png",
+    "": ""
+  },
+  {
+    "ID": "I2I516",
+    "Name": "Faded",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 5,
+    "Collection": "i2i",
+    "Image Path": "Assets/Items/I2I516.png",
+    "": ""
+  },
+  {
+    "ID": "I2I517",
+    "Name": "Yang",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 5,
+    "Collection": "i2i",
+    "Image Path": "Assets/Items/I2I517.png",
+    "": ""
+  },
+  {
+    "ID": "I2I518",
+    "Name": "Sol",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": 5,
+    "Collection": "i2i",
+    "Image Path": "Assets/Items/I2I518.png",
+    "": ""
+  },
+  {
+    "ID": "GH2601",
+    "Name": "Drained",
+    "Type": "Deck",
+    "Rarity": "Blue",
+    "Generation": 6,
+    "Collection": "Greenhouse 2",
+    "Image Path": "Assets/Items/GH2601.png",
+    "": ""
+  },
+  {
+    "ID": "GH2602",
+    "Name": "Shatter",
+    "Type": "Grip",
+    "Rarity": "Blue",
+    "Generation": 6,
+    "Collection": "Greenhouse 2",
+    "Image Path": "Assets/Items/GH2602.png",
+    "": ""
+  },
+  {
+    "ID": "GH2603",
+    "Name": "Aztec",
+    "Type": "Trucks",
+    "Rarity": "Blue",
+    "Generation": 6,
+    "Collection": "Greenhouse 2",
+    "Image Path": "Assets/Items/GH2603.png",
+    "": ""
+  },
+  {
+    "ID": "GH2604",
+    "Name": "Ventilator",
+    "Type": "Wheels",
+    "Rarity": "Blue",
+    "Generation": 6,
+    "Collection": "Greenhouse 2",
+    "Image Path": "Assets/Items/GH2604.png",
+    "": ""
+  },
+  {
+    "ID": "GH2605",
+    "Name": "Trickle",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 6,
+    "Collection": "Greenhouse 2",
+    "Image Path": "Assets/Items/GH2605.png",
+    "": ""
+  },
+  {
+    "ID": "GH2606",
+    "Name": "Chocolate Swirl",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 6,
+    "Collection": "Greenhouse 2",
+    "Image Path": "Assets/Items/GH2606.png",
+    "": ""
+  },
+  {
+    "ID": "GH2607",
+    "Name": "Embroidery",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 6,
+    "Collection": "Greenhouse 2",
+    "Image Path": "Assets/Items/GH2607.png",
+    "": ""
+  },
+  {
+    "ID": "GH2608",
+    "Name": "Plaided",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 6,
+    "Collection": "Greenhouse 2",
+    "Image Path": "Assets/Items/GH2608.png",
+    "": ""
+  },
+  {
+    "ID": "GH2609",
+    "Name": "Indebted",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 6,
+    "Collection": "Greenhouse 2",
+    "Image Path": "Assets/Items/GH2609.png",
+    "": ""
+  },
+  {
+    "ID": "GH2610",
+    "Name": "Retagged",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 6,
+    "Collection": "Greenhouse 2",
+    "Image Path": "Assets/Items/GH2610.png",
+    "": ""
+  },
+  {
+    "ID": "GH2611",
+    "Name": "Tiptoe",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 6,
+    "Collection": "Greenhouse 2",
+    "Image Path": "Assets/Items/GH2611.png",
+    "": ""
+  },
+  {
+    "ID": "GH2612",
+    "Name": "Guipure",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 6,
+    "Collection": "Greenhouse 2",
+    "Image Path": "Assets/Items/GH2612.png",
+    "": ""
+  },
+  {
+    "ID": "GH2613",
+    "Name": "Ceramic",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 6,
+    "Collection": "Greenhouse 2",
+    "Image Path": "Assets/Items/GH2613.png",
+    "": ""
+  },
+  {
+    "ID": "GH2614",
+    "Name": "Fogscape",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 6,
+    "Collection": "Greenhouse 2",
+    "Image Path": "Assets/Items/GH2614.png",
+    "": ""
+  },
+  {
+    "ID": "GH2615",
+    "Name": "Zhulong",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": 6,
+    "Collection": "Greenhouse 2",
+    "Image Path": "Assets/Items/GH2615.png",
+    "": ""
+  },
+  {
+    "ID": "GH2616",
+    "Name": "Engraved",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 6,
+    "Collection": "Greenhouse 2",
+    "Image Path": "Assets/Items/GH2616.png",
+    "": ""
+  },
+  {
+    "ID": "GH2617",
+    "Name": "Antique",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 6,
+    "Collection": "Greenhouse 2",
+    "Image Path": "Assets/Items/GH2617.png",
+    "": ""
+  },
+  {
+    "ID": "GH2618",
+    "Name": "Resealed",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": 6,
+    "Collection": "Greenhouse 2",
+    "Image Path": "Assets/Items/GH2618.png",
+    "": ""
+  },
+  {
+    "ID": "XMAS25601",
+    "Name": "Elf Nollie",
+    "Type": "Deck",
+    "Rarity": "Blue",
+    "Generation": 6,
+    "Collection": "Christmas 2025",
+    "Image Path": "Assets/Items/XMAS25601.png",
+    "": ""
+  },
+  {
+    "ID": "XMAS25602",
+    "Name": "Frosty",
+    "Type": "Grip",
+    "Rarity": "Blue",
+    "Generation": 6,
+    "Collection": "Christmas 2025",
+    "Image Path": "Assets/Items/XMAS25602.png",
+    "": ""
+  },
+  {
+    "ID": "XMAS25603",
+    "Name": "Wingbell",
+    "Type": "Trucks",
+    "Rarity": "Blue",
+    "Generation": 6,
+    "Collection": "Christmas 2025",
+    "Image Path": "Assets/Items/XMAS25603.png",
+    "": ""
+  },
+  {
+    "ID": "XMAS25604",
+    "Name": "Snowman",
+    "Type": "Wheels",
+    "Rarity": "Blue",
+    "Generation": 6,
+    "Collection": "Christmas 2025",
+    "Image Path": "Assets/Items/XMAS25604.png",
+    "": ""
+  },
+  {
+    "ID": "XMAS25605",
+    "Name": "Nutcracker",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 6,
+    "Collection": "Christmas 2025",
+    "Image Path": "Assets/Items/XMAS25605.png",
+    "": ""
+  },
+  {
+    "ID": "XMAS25606",
+    "Name": "Snowflake",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 6,
+    "Collection": "Christmas 2025",
+    "Image Path": "Assets/Items/XMAS25606.png",
+    "": ""
+  },
+  {
+    "ID": "XMAS25607",
+    "Name": "Wreath",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 6,
+    "Collection": "Christmas 2025",
+    "Image Path": "Assets/Items/XMAS25607.png",
+    "": ""
+  },
+  {
+    "ID": "XMAS25608",
+    "Name": "Rip Wrap",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 6,
+    "Collection": "Christmas 2025",
+    "Image Path": "Assets/Items/XMAS25608.png",
+    "": ""
+  },
+  {
+    "ID": "XMAS25609",
+    "Name": "Granta",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 6,
+    "Collection": "Christmas 2025",
+    "Image Path": "Assets/Items/XMAS25609.png",
+    "": ""
+  },
+  {
+    "ID": "XMAS25610",
+    "Name": "Gingerbread Cane",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 6,
+    "Collection": "Christmas 2025",
+    "Image Path": "Assets/Items/XMAS25610.png",
+    "": ""
+  },
+  {
+    "ID": "XMAS25611",
+    "Name": "Present",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 6,
+    "Collection": "Christmas 2025",
+    "Image Path": "Assets/Items/XMAS25611.png",
+    "": ""
+  },
+  {
+    "ID": "XMAS25612",
+    "Name": "Peppermints",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 6,
+    "Collection": "Christmas 2025",
+    "Image Path": "Assets/Items/XMAS25612.png",
+    "": ""
+  },
+  {
+    "ID": "XMAS25613",
+    "Name": "Elf",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 6,
+    "Collection": "Christmas 2025",
+    "Image Path": "Assets/Items/XMAS25613.png",
+    "": ""
+  },
+  {
+    "ID": "XMAS25614",
+    "Name": "Split Winter",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 6,
+    "Collection": "Christmas 2025",
+    "Image Path": "Assets/Items/XMAS25614.png",
+    "": ""
+  },
+  {
+    "ID": "XMAS25615",
+    "Name": "Fireplace",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": 6,
+    "Collection": "Christmas 2025",
+    "Image Path": "Assets/Items/XMAS25615.png",
+    "": ""
+  },
+  {
+    "ID": "XMAS25616",
+    "Name": "Gingerbread",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 6,
+    "Collection": "Christmas 2025",
+    "Image Path": "Assets/Items/XMAS25616.png",
+    "": ""
+  },
+  {
+    "ID": "XMAS25617",
+    "Name": "Black Snow",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 6,
+    "Collection": "Christmas 2025",
+    "Image Path": "Assets/Items/XMAS25617.png",
+    "": ""
+  },
+  {
+    "ID": "XMAS25618",
+    "Name": "Shelf Elf",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": 6,
+    "Collection": "Christmas 2025",
+    "Image Path": "Assets/Items/XMAS25618.png",
+    "": ""
+  },
+  {
+    "ID": "BST701",
+    "Name": "Tagged",
+    "Type": "Deck",
+    "Rarity": "Blue",
+    "Generation": 7,
+    "Collection": "Beast",
+    "Image Path": "Assets/Items/BST701.png",
+    "": ""
+  },
+  {
+    "ID": "BST702",
+    "Name": "Shown",
+    "Type": "Grip",
+    "Rarity": "Blue",
+    "Generation": 7,
+    "Collection": "Beast",
+    "Image Path": "Assets/Items/BST702.png",
+    "": ""
+  },
+  {
+    "ID": "BST703",
+    "Name": "Charlie",
+    "Type": "Wheels",
+    "Rarity": "Blue",
+    "Generation": 7,
+    "Collection": "Beast",
+    "Image Path": "Assets/Items/BST703.png",
+    "": ""
+  },
+  {
+    "ID": "BST704",
+    "Name": "Oranged",
+    "Type": "Trucks",
+    "Rarity": "Blue",
+    "Generation": 7,
+    "Collection": "Beast",
+    "Image Path": "Assets/Items/BST704.png",
+    "": ""
+  },
+  {
+    "ID": "BST705",
+    "Name": "Yellow Cab",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 7,
+    "Collection": "Beast",
+    "Image Path": "Assets/Items/BST705.png",
+    "": ""
+  },
+  {
+    "ID": "BST706",
+    "Name": "Mustard",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 7,
+    "Collection": "Beast",
+    "Image Path": "Assets/Items/BST706.png",
+    "": ""
+  },
+  {
+    "ID": "BST707",
+    "Name": "Ruby",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 7,
+    "Collection": "Beast",
+    "Image Path": "Assets/Items/BST707.png",
+    "": ""
+  },
+  {
+    "ID": "BST708",
+    "Name": "Caution",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 7,
+    "Collection": "Beast",
+    "Image Path": "Assets/Items/BST708.png",
+    "": ""
+  },
+  {
+    "ID": "BST709",
+    "Name": "Bunny Girl",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 7,
+    "Collection": "Beast",
+    "Image Path": "Assets/Items/BST709.png",
+    "": ""
+  },
+  {
+    "ID": "BST710",
+    "Name": "Rusted",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 7,
+    "Collection": "Beast",
+    "Image Path": "Assets/Items/BST710.png",
+    "": ""
+  },
+  {
+    "ID": "BST711",
+    "Name": "Escape",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 7,
+    "Collection": "Beast",
+    "Image Path": "Assets/Items/BST711.png",
+    "": ""
+  },
+  {
+    "ID": "BST712",
+    "Name": "Black Etched",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 7,
+    "Collection": "Beast",
+    "Image Path": "Assets/Items/BST712.png",
+    "": ""
+  },
+  {
+    "ID": "BST713",
+    "Name": "Ball Dog",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 7,
+    "Collection": "Beast",
+    "Image Path": "Assets/Items/BST713.png",
+    "": ""
+  },
+  {
+    "ID": "BST714",
+    "Name": "Held",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 7,
+    "Collection": "Beast",
+    "Image Path": "Assets/Items/BST714.png",
+    "": ""
+  },
+  {
+    "ID": "BST715",
+    "Name": "Red Washed",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": 7,
+    "Collection": "Beast",
+    "Image Path": "Assets/Items/BST715.png",
+    "": ""
+  },
+  {
+    "ID": "BST716",
+    "Name": "Red Laced",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 7,
+    "Collection": "Beast",
+    "Image Path": "Assets/Items/BST716.png",
+    "": ""
+  },
+  {
+    "ID": "BST717",
+    "Name": "Rugged",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 7,
+    "Collection": "Beast",
+    "Image Path": "Assets/Items/BST717.png",
+    "": ""
+  },
+  {
+    "ID": "BST718",
+    "Name": "Spring",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": 7,
+    "Collection": "Beast",
+    "Image Path": "Assets/Items/BST718.png",
+    "": ""
+  },
+  {
+    "ID": "NRT701",
+    "Name": "Puppet",
+    "Type": "Deck",
+    "Rarity": "Blue",
+    "Generation": 7,
+    "Collection": "Nurture",
+    "Image Path": "Assets/Items/NRT701.png",
+    "": ""
+  },
+  {
+    "ID": "NRT702",
+    "Name": "Fog",
+    "Type": "Grip",
+    "Rarity": "Blue",
+    "Generation": 7,
+    "Collection": "Nurture",
+    "Image Path": "Assets/Items/NRT702.png",
+    "": ""
+  },
+  {
+    "ID": "NRT703",
+    "Name": "Ily",
+    "Type": "Wheels",
+    "Rarity": "Blue",
+    "Generation": 7,
+    "Collection": "Nurture",
+    "Image Path": "Assets/Items/NRT703.png",
+    "": ""
+  },
+  {
+    "ID": "NRT704",
+    "Name": "Wooden",
+    "Type": "Trucks",
+    "Rarity": "Blue",
+    "Generation": 7,
+    "Collection": "Nurture",
+    "Image Path": "Assets/Items/NRT704.png",
+    "": ""
+  },
+  {
+    "ID": "NRT705",
+    "Name": "Peace",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 7,
+    "Collection": "Nurture",
+    "Image Path": "Assets/Items/NRT705.png",
+    "": ""
+  },
+  {
+    "ID": "NRT706",
+    "Name": "Grassfed",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 7,
+    "Collection": "Nurture",
+    "Image Path": "Assets/Items/NRT706.png",
+    "": ""
+  },
+  {
+    "ID": "NRT707",
+    "Name": "Woodland",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 7,
+    "Collection": "Nurture",
+    "Image Path": "Assets/Items/NRT707.png",
+    "": ""
+  },
+  {
+    "ID": "NRT708",
+    "Name": "Silhouette",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 7,
+    "Collection": "Nurture",
+    "Image Path": "Assets/Items/NRT708.png",
+    "": ""
+  },
+  {
+    "ID": "NRT709",
+    "Name": "Sunset",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 7,
+    "Collection": "Nurture",
+    "Image Path": "Assets/Items/NRT709.png",
+    "": ""
+  },
+  {
+    "ID": "NRT710",
+    "Name": "Dumpster",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 7,
+    "Collection": "Nurture",
+    "Image Path": "Assets/Items/NRT710.png",
+    "": ""
+  },
+  {
+    "ID": "NRT711",
+    "Name": "Rails",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 7,
+    "Collection": "Nurture",
+    "Image Path": "Assets/Items/NRT711.png",
+    "": ""
+  },
+  {
+    "ID": "NRT712",
+    "Name": "Lamb",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 7,
+    "Collection": "Nurture",
+    "Image Path": "Assets/Items/NRT712.png",
+    "": ""
+  },
+  {
+    "ID": "NRT713",
+    "Name": "Sunflower",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 7,
+    "Collection": "Nurture",
+    "Image Path": "Assets/Items/NRT713.png",
+    "": ""
+  },
+  {
+    "ID": "NRT714",
+    "Name": "Friendship",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 7,
+    "Collection": "Nurture",
+    "Image Path": "Assets/Items/NRT714.png",
+    "": ""
+  },
+  {
+    "ID": "NRT715",
+    "Name": "Barn",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": 7,
+    "Collection": "Nurture",
+    "Image Path": "Assets/Items/NRT715.png",
+    "": ""
+  },
+  {
+    "ID": "NRT716",
+    "Name": "Mother-Nature",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 7,
+    "Collection": "Nurture",
+    "Image Path": "Assets/Items/NRT716.png",
+    "": ""
+  },
+  {
+    "ID": "NRT717",
+    "Name": "Canine",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 7,
+    "Collection": "Nurture",
+    "Image Path": "Assets/Items/NRT717.png",
+    "": ""
+  },
+  {
+    "ID": "NRT718",
+    "Name": "Deers",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": 7,
+    "Collection": "Nurture",
+    "Image Path": "Assets/Items/NRT718.png",
+    "": ""
+  },
+  {
+    "ID": "PS3801",
+    "Name": "Nightlights",
+    "Type": "Deck",
+    "Rarity": "Blue",
+    "Generation": 8,
+    "Collection": "Printshop 3",
+    "Image Path": "Assets/Items/PS3801.png",
+    "": ""
+  },
+  {
+    "ID": "PS3802",
+    "Name": "Crying",
+    "Type": "Grip",
+    "Rarity": "Blue",
+    "Generation": 8,
+    "Collection": "Printshop 3",
+    "Image Path": "Assets/Items/PS3802.png",
+    "": ""
+  },
+  {
+    "ID": "PS3803",
+    "Name": "Blue Tie Dye",
+    "Type": "Wheels",
+    "Rarity": "Blue",
+    "Generation": 8,
+    "Collection": "Printshop 3",
+    "Image Path": "Assets/Items/PS3803.png",
+    "": ""
+  },
+  {
+    "ID": "PS3804",
+    "Name": "Clean Bugs",
+    "Type": "Trucks",
+    "Rarity": "Blue",
+    "Generation": 8,
+    "Collection": "Printshop 3",
+    "Image Path": "Assets/Items/PS3804.png",
+    "": ""
+  },
+  {
+    "ID": "PS3805",
+    "Name": "Z",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 8,
+    "Collection": "Printshop 3",
+    "Image Path": "Assets/Items/PS3805.png",
+    "": ""
+  },
+  {
+    "ID": "PS3806",
+    "Name": "Bug Barbed",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 8,
+    "Collection": "Printshop 3",
+    "Image Path": "Assets/Items/PS3806.png",
+    "": ""
+  },
+  {
+    "ID": "PS3807",
+    "Name": "Green Tie Dye",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 8,
+    "Collection": "Printshop 3",
+    "Image Path": "Assets/Items/PS3807.png",
+    "": ""
+  },
+  {
+    "ID": "PS3808",
+    "Name": "Starfish",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 8,
+    "Collection": "Printshop 3",
+    "Image Path": "Assets/Items/PS3808.png",
+    "": ""
+  },
+  {
+    "ID": "PS3809",
+    "Name": "Bust",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 8,
+    "Collection": "Printshop 3",
+    "Image Path": "Assets/Items/PS3809.png",
+    "": ""
+  },
+  {
+    "ID": "PS3810",
+    "Name": "Skeletough",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 8,
+    "Collection": "Printshop 3",
+    "Image Path": "Assets/Items/PS3810.png",
+    "": ""
+  },
+  {
+    "ID": "PS3811",
+    "Name": "Pyramids",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 8,
+    "Collection": "Printshop 3",
+    "Image Path": "Assets/Items/PS3811.png",
+    "": ""
+  },
+  {
+    "ID": "PS3812",
+    "Name": "White Webbed",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 8,
+    "Collection": "Printshop 3",
+    "Image Path": "Assets/Items/PS3812.png",
+    "": ""
+  },
+  {
+    "ID": "PS3813",
+    "Name": "Red Tie Dye",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 8,
+    "Collection": "Printshop 3",
+    "Image Path": "Assets/Items/PS3813.png",
+    "": ""
+  },
+  {
+    "ID": "PS3814",
+    "Name": "Stargirl",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 8,
+    "Collection": "Printshop 3",
+    "Image Path": "Assets/Items/PS3814.png",
+    "": ""
+  },
+  {
+    "ID": "PS3815",
+    "Name": "White Lowkey",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": 8,
+    "Collection": "Printshop 3",
+    "Image Path": "Assets/Items/PS3815.png",
+    "": ""
+  },
+  {
+    "ID": "PS3816",
+    "Name": "Greenbirds",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 8,
+    "Collection": "Printshop 3",
+    "Image Path": "Assets/Items/PS3816.png",
+    "": ""
+  },
+  {
+    "ID": "PS3817",
+    "Name": "Black Tie Dye",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 8,
+    "Collection": "Printshop 3",
+    "Image Path": "Assets/Items/PS3817.png",
+    "": ""
+  },
+  {
+    "ID": "PS3818",
+    "Name": "Purple Eyes",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": 8,
+    "Collection": "Printshop 3",
+    "Image Path": "Assets/Items/PS3818.png",
+    "": ""
+  },
+  {
+    "ID": "STK801",
+    "Name": "Souljah",
+    "Type": "Deck",
+    "Rarity": "Blue",
+    "Generation": 8,
+    "Collection": "Statik",
+    "Image Path": "Assets/Items/STK801.png",
+    "": ""
+  },
+  {
+    "ID": "STK802",
+    "Name": "Comet",
+    "Type": "Grip",
+    "Rarity": "Blue",
+    "Generation": 8,
+    "Collection": "Statik",
+    "Image Path": "Assets/Items/STK802.png",
+    "": ""
+  },
+  {
+    "ID": "STK803",
+    "Name": "Fetti",
+    "Type": "Wheels",
+    "Rarity": "Blue",
+    "Generation": 8,
+    "Collection": "Statik",
+    "Image Path": "Assets/Items/STK803.png",
+    "": ""
+  },
+  {
+    "ID": "STK804",
+    "Name": "Kandy",
+    "Type": "Trucks",
+    "Rarity": "Blue",
+    "Generation": 8,
+    "Collection": "Statik",
+    "Image Path": "Assets/Items/STK804.png",
+    "": ""
+  },
+  {
+    "ID": "STK805",
+    "Name": "Tana",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 8,
+    "Collection": "Statik",
+    "Image Path": "Assets/Items/STK805.png",
+    "": ""
+  },
+  {
+    "ID": "STK806",
+    "Name": "Lightning",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 8,
+    "Collection": "Statik",
+    "Image Path": "Assets/Items/STK806.png",
+    "": ""
+  },
+  {
+    "ID": "STK807",
+    "Name": "Ojay",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 8,
+    "Collection": "Statik",
+    "Image Path": "Assets/Items/STK807.png",
+    "": ""
+  },
+  {
+    "ID": "STK808",
+    "Name": "Bricks",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 8,
+    "Collection": "Statik",
+    "Image Path": "Assets/Items/STK808.png",
+    "": ""
+  },
+  {
+    "ID": "STK809",
+    "Name": "Holes",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 8,
+    "Collection": "Statik",
+    "Image Path": "Assets/Items/STK809.png",
+    "": ""
+  },
+  {
+    "ID": "STK810",
+    "Name": "Devote",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 8,
+    "Collection": "Statik",
+    "Image Path": "Assets/Items/STK810.png",
+    "": ""
+  },
+  {
+    "ID": "STK811",
+    "Name": "Flame",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 8,
+    "Collection": "Statik",
+    "Image Path": "Assets/Items/STK811.png",
+    "": ""
+  },
+  {
+    "ID": "STK812",
+    "Name": "Camo",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 8,
+    "Collection": "Statik",
+    "Image Path": "Assets/Items/STK812.png",
+    "": ""
+  },
+  {
+    "ID": "STK813",
+    "Name": "Krunk",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 8,
+    "Collection": "Statik",
+    "Image Path": "Assets/Items/STK813.png",
+    "": ""
+  },
+  {
+    "ID": "STK814",
+    "Name": "Chu",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 8,
+    "Collection": "Statik",
+    "Image Path": "Assets/Items/STK814.png",
+    "": ""
+  },
+  {
+    "ID": "STK815",
+    "Name": "Tiva",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": 8,
+    "Collection": "Statik",
+    "Image Path": "Assets/Items/STK815.png",
+    "": ""
+  },
+  {
+    "ID": "STK816",
+    "Name": "Geek",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 8,
+    "Collection": "Statik",
+    "Image Path": "Assets/Items/STK816.png",
+    "": ""
+  },
+  {
+    "ID": "STK817",
+    "Name": "Toy",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 8,
+    "Collection": "Statik",
+    "Image Path": "Assets/Items/STK817.png",
+    "": ""
+  },
+  {
+    "ID": "STK818",
+    "Name": "Lowrider",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": 8,
+    "Collection": "Statik",
+    "Image Path": "Assets/Items/STK818.png",
+    "": ""
+  },
+  {
+    "ID": "KLDS901",
+    "Name": "Swirly",
+    "Type": "Deck",
+    "Rarity": "Blue",
+    "Generation": 9,
+    "Collection": "Kaleidoscope",
+    "Image Path": "Assets/Items/KLDS901.png",
+    "": ""
+  },
+  {
+    "ID": "KLDS902",
+    "Name": "Brownie",
+    "Type": "Grip",
+    "Rarity": "Blue",
+    "Generation": 9,
+    "Collection": "Kaleidoscope",
+    "Image Path": "Assets/Items/KLDS902.png",
+    "": ""
+  },
+  {
+    "ID": "KLDS903",
+    "Name": "Shelly",
+    "Type": "Wheels",
+    "Rarity": "Blue",
+    "Generation": 9,
+    "Collection": "Kaleidoscope",
+    "Image Path": "Assets/Items/KLDS903.png",
+    "": ""
+  },
+  {
+    "ID": "KLDS904",
+    "Name": "Chocolate",
+    "Type": "Trucks",
+    "Rarity": "Blue",
+    "Generation": 9,
+    "Collection": "Kaleidoscope",
+    "Image Path": "Assets/Items/KLDS904.png",
+    "": ""
+  },
+  {
+    "ID": "KLDS905",
+    "Name": "Tropical",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 9,
+    "Collection": "Kaleidoscope",
+    "Image Path": "Assets/Items/KLDS905.png",
+    "": ""
+  },
+  {
+    "ID": "KLDS906",
+    "Name": "Electric",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 9,
+    "Collection": "Kaleidoscope",
+    "Image Path": "Assets/Items/KLDS906.png",
+    "": ""
+  },
+  {
+    "ID": "KLDS907",
+    "Name": "Tentacles",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 9,
+    "Collection": "Kaleidoscope",
+    "Image Path": "Assets/Items/KLDS907.png",
+    "": ""
+  },
+  {
+    "ID": "KLDS908",
+    "Name": "Duckies",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 9,
+    "Collection": "Kaleidoscope",
+    "Image Path": "Assets/Items/KLDS908.png",
+    "": ""
+  },
+  {
+    "ID": "KLDS909",
+    "Name": "Safari",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 9,
+    "Collection": "Kaleidoscope",
+    "Image Path": "Assets/Items/KLDS909.png",
+    "": ""
+  },
+  {
+    "ID": "KLDS910",
+    "Name": "Mirage",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 9,
+    "Collection": "Kaleidoscope",
+    "Image Path": "Assets/Items/KLDS910.png",
+    "": ""
+  },
+  {
+    "ID": "KLDS911",
+    "Name": "Lovely",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 9,
+    "Collection": "Kaleidoscope",
+    "Image Path": "Assets/Items/KLDS911.png",
+    "": ""
+  },
+  {
+    "ID": "KLDS912",
+    "Name": "Real Teal",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 9,
+    "Collection": "Kaleidoscope",
+    "Image Path": "Assets/Items/KLDS912.png",
+    "": ""
+  },
+  {
+    "ID": "KLDS913",
+    "Name": "Bluey",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 9,
+    "Collection": "Kaleidoscope",
+    "Image Path": "Assets/Items/KLDS913.png",
+    "": ""
+  },
+  {
+    "ID": "KLDS914",
+    "Name": "Fishy",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 9,
+    "Collection": "Kaleidoscope",
+    "Image Path": "Assets/Items/KLDS914.png",
+    "": ""
+  },
+  {
+    "ID": "KLDS915",
+    "Name": "Sunfaded",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 9,
+    "Collection": "Kaleidoscope",
+    "Image Path": "Assets/Items/KLDS915.png",
+    "": ""
+  },
+  {
+    "ID": "KLDS916",
+    "Name": "Sunset",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 9,
+    "Collection": "Kaleidoscope",
+    "Image Path": "Assets/Items/KLDS916.png",
+    "": ""
+  },
+  {
+    "ID": "KLDS917",
+    "Name": "Moss",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": 9,
+    "Collection": "Kaleidoscope",
+    "Image Path": "Assets/Items/KLDS917.png",
+    "": ""
+  },
+  {
+    "ID": "KLDS918",
+    "Name": "Octo",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": 9,
+    "Collection": "Kaleidoscope",
+    "Image Path": "Assets/Items/KLDS918.png",
+    "": ""
+  },
+  {
+    "ID": "NRT2901",
+    "Name": "Girlshop",
+    "Type": "Deck",
+    "Rarity": "Blue",
+    "Generation": 9,
+    "Collection": "Nurture 2",
+    "Image Path": "Assets/Items/NRT2901.png",
+    "": ""
+  },
+  {
+    "ID": "NRT2902",
+    "Name": "Cathedral",
+    "Type": "Grip",
+    "Rarity": "Blue",
+    "Generation": 9,
+    "Collection": "Nurture 2",
+    "Image Path": "Assets/Items/NRT2902.png",
+    "": ""
+  },
+  {
+    "ID": "NRT2903",
+    "Name": "Drawn",
+    "Type": "Wheels",
+    "Rarity": "Blue",
+    "Generation": 9,
+    "Collection": "Nurture 2",
+    "Image Path": "Assets/Items/NRT2903.png",
+    "": ""
+  },
+  {
+    "ID": "NRT2904",
+    "Name": "Pixel Limes",
+    "Type": "Trucks",
+    "Rarity": "Blue",
+    "Generation": 9,
+    "Collection": "Nurture 2",
+    "Image Path": "Assets/Items/NRT2904.png",
+    "": ""
+  },
+  {
+    "ID": "NRT2905",
+    "Name": "Classic",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 9,
+    "Collection": "Nurture 2",
+    "Image Path": "Assets/Items/NRT2905.png",
+    "": ""
+  },
+  {
+    "ID": "NRT2906",
+    "Name": "Pixel Pinks",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 9,
+    "Collection": "Nurture 2",
+    "Image Path": "Assets/Items/NRT2906.png",
+    "": ""
+  },
+  {
+    "ID": "NRT2907",
+    "Name": "Angelic Antlers",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 9,
+    "Collection": "Nurture 2",
+    "Image Path": "Assets/Items/NRT2907.png",
+    "": ""
+  },
+  {
+    "ID": "NRT2908",
+    "Name": "Distorted",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 9,
+    "Collection": "Nurture 2",
+    "Image Path": "Assets/Items/NRT2908.png",
+    "": ""
+  },
+  {
+    "ID": "NRT2909",
+    "Name": "Plushie",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 9,
+    "Collection": "Nurture 2",
+    "Image Path": "Assets/Items/NRT2909.png",
+    "": ""
+  },
+  {
+    "ID": "NRT2910",
+    "Name": "Icey",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 9,
+    "Collection": "Nurture 2",
+    "Image Path": "Assets/Items/NRT2910.png",
+    "": ""
+  },
+  {
+    "ID": "NRT2911",
+    "Name": "Landscape",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 9,
+    "Collection": "Nurture 2",
+    "Image Path": "Assets/Items/NRT2911.png",
+    "": ""
+  },
+  {
+    "ID": "NRT2912",
+    "Name": "Quad",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 9,
+    "Collection": "Nurture 2",
+    "Image Path": "Assets/Items/NRT2912.png",
+    "": ""
+  },
+  {
+    "ID": "NRT2913",
+    "Name": "Pixel Blacks",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 9,
+    "Collection": "Nurture 2",
+    "Image Path": "Assets/Items/NRT2913.png",
+    "": ""
+  },
+  {
+    "ID": "NRT2914",
+    "Name": "Fawn",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 9,
+    "Collection": "Nurture 2",
+    "Image Path": "Assets/Items/NRT2914.png",
+    "": ""
+  },
+  {
+    "ID": "NRT2915",
+    "Name": "Pixel Midnights",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 9,
+    "Collection": "Nurture 2",
+    "Image Path": "Assets/Items/NRT2915.png",
+    "": ""
+  },
+  {
+    "ID": "NRT2916",
+    "Name": "Worm",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 9,
+    "Collection": "Nurture 2",
+    "Image Path": "Assets/Items/NRT2916.png",
+    "": ""
+  },
+  {
+    "ID": "NRT2917",
+    "Name": "Paws",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": 9,
+    "Collection": "Nurture 2",
+    "Image Path": "Assets/Items/NRT2917.png",
+    "": ""
+  },
+  {
+    "ID": "NRT2918",
+    "Name": "Woaw",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": 9,
+    "Collection": "Nurture 2",
+    "Image Path": "Assets/Items/NRT2918.png",
+    "": ""
+  },
+  {
+    "ID": "RSP101",
+    "Name": "Gazed",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 1,
+    "Collection": "Rep Shop 1",
+    "Image Path": "Assets/Items/RSP101.png",
+    "": ""
+  },
+  {
+    "ID": "RSP102",
+    "Name": "Washed",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 1,
+    "Collection": "Rep Shop 1",
+    "Image Path": "Assets/Items/RSP102.png",
+    "": ""
+  },
+  {
+    "ID": "RSP103",
+    "Name": "Red Hollows",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 1,
+    "Collection": "Rep Shop 1",
+    "Image Path": "Assets/Items/RSP103.png",
+    "": ""
+  },
+  {
+    "ID": "RSP104",
+    "Name": "Eli",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 1,
+    "Collection": "Rep Shop 1",
+    "Image Path": "Assets/Items/RSP104.png",
+    "": ""
+  },
+  {
+    "ID": "RSP105",
+    "Name": "Tunes",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 1,
+    "Collection": "Rep Shop 1",
+    "Image Path": "Assets/Items/RSP105.png",
+    "": ""
+  },
+  {
+    "ID": "RSP106",
+    "Name": "Leafy",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 1,
+    "Collection": "Rep Shop 1",
+    "Image Path": "Assets/Items/RSP106.png",
+    "": ""
+  },
+  {
+    "ID": "RSP107",
+    "Name": "The News",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 1,
+    "Collection": "Rep Shop 1",
+    "Image Path": "Assets/Items/RSP107.png",
+    "": ""
+  },
+  {
+    "ID": "RSP108",
+    "Name": "Dancing",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 1,
+    "Collection": "Rep Shop 1",
+    "Image Path": "Assets/Items/RSP108.png",
+    "": ""
+  },
+  {
+    "ID": "RSP201",
+    "Name": "Painted Black",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 2,
+    "Collection": "Rep Shop 2",
+    "Image Path": "Assets/Items/RSP201.png",
+    "": ""
+  },
+  {
+    "ID": "RSP202",
+    "Name": "Scales",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 2,
+    "Collection": "Rep Shop 2",
+    "Image Path": "Assets/Items/RSP202.png",
+    "": ""
+  },
+  {
+    "ID": "RSP203",
+    "Name": "Black Cat",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 2,
+    "Collection": "Rep Shop 2",
+    "Image Path": "Assets/Items/RSP203.png",
+    "": ""
+  },
+  {
+    "ID": "RSP204",
+    "Name": "Binary Star",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 2,
+    "Collection": "Rep Shop 2",
+    "Image Path": "Assets/Items/RSP204.png",
+    "": ""
+  },
+  {
+    "ID": "RSP205",
+    "Name": "Green Basic",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 2,
+    "Collection": "Rep Shop 2",
+    "Image Path": "Assets/Items/RSP205.png",
+    "": ""
+  },
+  {
+    "ID": "RSP206",
+    "Name": "Computered",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 2,
+    "Collection": "Rep Shop 2",
+    "Image Path": "Assets/Items/RSP206.png",
+    "": ""
+  },
+  {
+    "ID": "RSP207",
+    "Name": "Pasture",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 2,
+    "Collection": "Rep Shop 2",
+    "Image Path": "Assets/Items/RSP207.png",
+    "": ""
+  },
+  {
+    "ID": "RSP208",
+    "Name": "Metro",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 2,
+    "Collection": "Rep Shop 2",
+    "Image Path": "Assets/Items/RSP208.png",
+    "": ""
+  },
+  {
+    "ID": "RSP301",
+    "Name": "Red Multi",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 3,
+    "Collection": "Rep Shop 3",
+    "Image Path": "Assets/Items/RSP301.png",
+    "": ""
+  },
+  {
+    "ID": "RSP302",
+    "Name": "Lyrical Blur",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 3,
+    "Collection": "Rep Shop 3",
+    "Image Path": "Assets/Items/RSP302.png",
+    "": ""
+  },
+  {
+    "ID": "RSP303",
+    "Name": "Union Jack",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 3,
+    "Collection": "Rep Shop 3",
+    "Image Path": "Assets/Items/RSP303.png",
+    "": ""
+  },
+  {
+    "ID": "RSP304",
+    "Name": "Blue Line",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 3,
+    "Collection": "Rep Shop 3",
+    "Image Path": "Assets/Items/RSP304.png",
+    "": ""
+  },
+  {
+    "ID": "RSP305",
+    "Name": "Purple Dotted",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 3,
+    "Collection": "Rep Shop 3",
+    "Image Path": "Assets/Items/RSP305.png",
+    "": ""
+  },
+  {
+    "ID": "RSP306",
+    "Name": "Monkee",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 3,
+    "Collection": "Rep Shop 3",
+    "Image Path": "Assets/Items/RSP306.png",
+    "": ""
+  },
+  {
+    "ID": "RSP307",
+    "Name": "Toxica",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 3,
+    "Collection": "Rep Shop 3",
+    "Image Path": "Assets/Items/RSP307.png",
+    "": ""
+  },
+  {
+    "ID": "RSP308",
+    "Name": "Lemons",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 3,
+    "Collection": "Rep Shop 3",
+    "Image Path": "Assets/Items/RSP308.png",
+    "": ""
+  },
+  {
+    "ID": "RSP401",
+    "Name": "Skullz",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 4,
+    "Collection": "Rep Shop 4",
+    "Image Path": "Assets/Items/RSP401.png",
+    "": ""
+  },
+  {
+    "ID": "RSP402",
+    "Name": "Ultrasonic",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 4,
+    "Collection": "Rep Shop 4",
+    "Image Path": "Assets/Items/RSP402.png",
+    "": ""
+  },
+  {
+    "ID": "RSP403",
+    "Name": "Goop",
+    "Type": "Grip",
+    "Rarity": "Dark Blue",
+    "Generation": 4,
+    "Collection": "Rep Shop 4",
+    "Image Path": "Assets/Items/RSP403.png",
+    "": ""
+  },
+  {
+    "ID": "RSP404",
+    "Name": "Structure",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 4,
+    "Collection": "Rep Shop 4",
+    "Image Path": "Assets/Items/RSP404.png",
+    "": ""
+  },
+  {
+    "ID": "RSP405",
+    "Name": "Centurion",
+    "Type": "Trucks",
+    "Rarity": "Dark Blue",
+    "Generation": 4,
+    "Collection": "Rep Shop 4",
+    "Image Path": "Assets/Items/RSP405.png",
+    "": ""
+  },
+  {
+    "ID": "RSP406",
+    "Name": "High Five",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 4,
+    "Collection": "Rep Shop 4",
+    "Image Path": "Assets/Items/RSP406.png",
+    "": ""
+  },
+  {
+    "ID": "RSP407",
+    "Name": "Neuronic",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 4,
+    "Collection": "Rep Shop 4",
+    "Image Path": "Assets/Items/RSP407.png",
+    "": ""
+  },
+  {
+    "ID": "RSP408",
+    "Name": "Breaker",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 4,
+    "Collection": "Rep Shop 4",
+    "Image Path": "Assets/Items/RSP408.png",
+    "": ""
+  },
+  {
+    "ID": "RSP409",
+    "Name": "Fang",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 4,
+    "Collection": "Rep Shop 4",
+    "Image Path": "Assets/Items/RSP409.png",
+    "": ""
+  },
+  {
+    "ID": "RSP410",
+    "Name": "Casper",
+    "Type": "Wheels",
+    "Rarity": "Red",
+    "Generation": 4,
+    "Collection": "Rep Shop 4",
+    "Image Path": "Assets/Items/RSP410.png",
+    "": ""
+  },
+  {
+    "ID": "RSP411",
+    "Name": "I See You",
+    "Type": "Trucks",
+    "Rarity": "Red",
+    "Generation": 4,
+    "Collection": "Rep Shop 4",
+    "Image Path": "Assets/Items/RSP411.png",
+    "": ""
+  },
+  {
+    "ID": "RSP412",
+    "Name": "Coffin",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 4,
+    "Collection": "Rep Shop 4",
+    "Image Path": "Assets/Items/RSP412.png",
+    "": ""
+  },
+  {
+    "ID": "RSP501",
+    "Name": "Double Take",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 5,
+    "Collection": "Rep Shop 5",
+    "Image Path": "Assets/Items/RSP501.png",
+    "": ""
+  },
+  {
+    "ID": "RSP502",
+    "Name": "Chomp",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 5,
+    "Collection": "Rep Shop 5",
+    "Image Path": "Assets/Items/RSP502.png",
+    "": ""
+  },
+  {
+    "ID": "RSP503",
+    "Name": "Looking Up",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 5,
+    "Collection": "Rep Shop 5",
+    "Image Path": "Assets/Items/RSP503.png",
+    "": ""
+  },
+  {
+    "ID": "RSP504",
+    "Name": "Two Faced",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 5,
+    "Collection": "Rep Shop 5",
+    "Image Path": "Assets/Items/RSP504.png",
+    "": ""
+  },
+  {
+    "ID": "RSP505",
+    "Name": "Hot",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 5,
+    "Collection": "Rep Shop 5",
+    "Image Path": "Assets/Items/RSP505.png",
+    "": ""
+  },
+  {
+    "ID": "RSP506",
+    "Name": "Trickster",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 5,
+    "Collection": "Rep Shop 5",
+    "Image Path": "Assets/Items/RSP506.png",
+    "": ""
+  },
+  {
+    "ID": "RSP507",
+    "Name": "Butterfly",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 5,
+    "Collection": "Rep Shop 5",
+    "Image Path": "Assets/Items/RSP507.png",
+    "": ""
+  },
+  {
+    "ID": "RSP508",
+    "Name": "Carved",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 5,
+    "Collection": "Rep Shop 5",
+    "Image Path": "Assets/Items/RSP508.png",
+    "": ""
+  },
+  {
+    "ID": "RSP601",
+    "Name": ": - |",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 6,
+    "Collection": "Rep Shop 6",
+    "Image Path": "Assets/Items/RSP601.png",
+    "": ""
+  },
+  {
+    "ID": "RSP602",
+    "Name": "Grrrls",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 6,
+    "Collection": "Rep Shop 6",
+    "Image Path": "Assets/Items/RSP602.png",
+    "": ""
+  },
+  {
+    "ID": "RSP603",
+    "Name": "Glide",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 6,
+    "Collection": "Rep Shop 6",
+    "Image Path": "Assets/Items/RSP603.png",
+    "": ""
+  },
+  {
+    "ID": "RSP604",
+    "Name": "Smile",
+    "Type": "Wheels",
+    "Rarity": "Dark Blue",
+    "Generation": 6,
+    "Collection": "Rep Shop 6",
+    "Image Path": "Assets/Items/RSP604.png",
+    "": ""
+  },
+  {
+    "ID": "RSP605",
+    "Name": "Slaps",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 6,
+    "Collection": "Rep Shop 6",
+    "Image Path": "Assets/Items/RSP605.png",
+    "": ""
+  },
+  {
+    "ID": "RSP606",
+    "Name": "Pink Dragon",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 6,
+    "Collection": "Rep Shop 6",
+    "Image Path": "Assets/Items/RSP606.png",
+    "": ""
+  },
+  {
+    "ID": "RSP607",
+    "Name": "Traffic Lights",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 6,
+    "Collection": "Rep Shop 6",
+    "Image Path": "Assets/Items/RSP607.png",
+    "": ""
+  },
+  {
+    "ID": "RSP608",
+    "Name": "ILoveU",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 6,
+    "Collection": "Rep Shop 6",
+    "Image Path": "Assets/Items/RSP608.png",
+    "": ""
+  },
+  {
+    "ID": "RSP701",
+    "Name": "Lactose",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 7,
+    "Collection": "Rep Shop 7",
+    "Image Path": "Assets/Items/RSP701.png",
+    "": ""
+  },
+  {
+    "ID": "RSP702",
+    "Name": "Piano",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 7,
+    "Collection": "Rep Shop 7",
+    "Image Path": "Assets/Items/RSP702.png",
+    "": ""
+  },
+  {
+    "ID": "RSP703",
+    "Name": "Disco",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 7,
+    "Collection": "Rep Shop 7",
+    "Image Path": "Assets/Items/RSP703.png",
+    "": ""
+  },
+  {
+    "ID": "RSP704",
+    "Name": "Golden Bunny",
+    "Type": "Grip",
+    "Rarity": "Purple",
+    "Generation": 7,
+    "Collection": "Rep Shop 7",
+    "Image Path": "Assets/Items/RSP704.png",
+    "": ""
+  },
+  {
+    "ID": "RSP705",
+    "Name": "Low End",
+    "Type": "Wheels",
+    "Rarity": "Purple",
+    "Generation": 7,
+    "Collection": "Rep Shop 7",
+    "Image Path": "Assets/Items/RSP705.png",
+    "": ""
+  },
+  {
+    "ID": "RSP706",
+    "Name": "Halftoned",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 7,
+    "Collection": "Rep Shop 7",
+    "Image Path": "Assets/Items/RSP706.png",
+    "": ""
+  },
+  {
+    "ID": "RSP707",
+    "Name": "Pink Panther",
+    "Type": "Trucks",
+    "Rarity": "Purple",
+    "Generation": 7,
+    "Collection": "Rep Shop 7",
+    "Image Path": "Assets/Items/RSP707.png",
+    "": ""
+  },
+  {
+    "ID": "RSP708",
+    "Name": "Rad",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 7,
+    "Collection": "Rep Shop 7",
+    "Image Path": "Assets/Items/RSP708.png",
+    "": ""
+  },
+  {
+    "ID": "RSP801",
+    "Name": "Evans",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 8,
+    "Collection": "Rep Shop 8",
+    "Image Path": "Assets/Items/RSP801.png",
+    "": ""
+  },
+  {
+    "ID": "RSP802",
+    "Name": "The Sun",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 8,
+    "Collection": "Rep Shop 8",
+    "Image Path": "Assets/Items/RSP802.png",
+    "": ""
+  },
+  {
+    "ID": "RSP803",
+    "Name": "Siege",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": 8,
+    "Collection": "Rep Shop 8",
+    "Image Path": "Assets/Items/RSP803.png",
+    "": ""
+  },
+  {
+    "ID": "RSP804",
+    "Name": "Trainyard",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 8,
+    "Collection": "Rep Shop 8",
+    "Image Path": "Assets/Items/RSP804.png",
+    "": ""
+  },
+  {
+    "ID": "RSP805",
+    "Name": "Focus",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 8,
+    "Collection": "Rep Shop 8",
+    "Image Path": "Assets/Items/RSP805.png",
+    "": ""
+  },
+  {
+    "ID": "RSP806",
+    "Name": "Patchwork",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 8,
+    "Collection": "Rep Shop 8",
+    "Image Path": "Assets/Items/RSP806.png",
+    "": ""
+  },
+  {
+    "ID": "RSP807",
+    "Name": "Torus",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": 8,
+    "Collection": "Rep Shop 8",
+    "Image Path": "Assets/Items/RSP807.png",
+    "": ""
+  },
+  {
+    "ID": "RSP808",
+    "Name": "Realm",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": 8,
+    "Collection": "Rep Shop 8",
+    "Image Path": "Assets/Items/RSP808.png",
+    "": ""
+  },
+  {
+    "ID": "RBX101",
+    "Name": "Damned",
+    "Type": "Deck",
+    "Rarity": "Dark Blue",
+    "Generation": "N/A",
+    "Collection": "Robux",
+    "Image Path": "Assets/Items/RBX101.png",
+    "": ""
+  },
+  {
+    "ID": "RBX102",
+    "Name": "Starry",
+    "Type": "Deck",
+    "Rarity": "Purple",
+    "Generation": "N/A",
+    "Collection": "Robux",
+    "Image Path": "Assets/Items/RBX102.png",
+    "": ""
+  },
+  {
+    "ID": "UPD101",
+    "Name": "Jellies",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": "N/A",
+    "Collection": "Update",
+    "Image Path": "Assets/Items/UPD101.png",
+    "": ""
+  },
+  {
+    "ID": "UPD102",
+    "Name": "Cold Smile",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": "N/A",
+    "Collection": "Update",
+    "Image Path": "Assets/Items/UPD102.png",
+    "": ""
+  },
+  {
+    "ID": "UPD103",
+    "Name": "Bobby",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": "N/A",
+    "Collection": "Update",
+    "Image Path": "Assets/Items/UPD103.png",
+    "": ""
+  },
+  {
+    "ID": "UPD104",
+    "Name": "Heartache",
+    "Type": "Grip",
+    "Rarity": "Red",
+    "Generation": "N/A",
+    "Collection": "Update",
+    "Image Path": "Assets/Items/UPD104.png",
+    "": ""
+  },
+  {
+    "ID": "GIFT101",
+    "Name": "The Tree",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": "N/A",
+    "Collection": "XMAS Gift Hunt",
+    "Image Path": "Assets/Items/GIFT101.png",
+    "": ""
+  },
+  {
+    "ID": "GIFT102",
+    "Name": "Tis The Season",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": "N/A",
+    "Collection": "XMAS Gift Hunt",
+    "Image Path": "Assets/Items/GIFT102.png",
+    "": ""
+  },
+  {
+    "ID": "AWRD101",
+    "Name": "Trophy",
+    "Type": "Deck",
+    "Rarity": "Gold",
+    "Generation": "N/A",
+    "Collection": "Award",
+    "Image Path": "Assets/Items/AWRD101.png",
+    "": ""
+  },
+  {
+    "ID": "AWRD102",
+    "Name": "Saa's Deck",
+    "Type": "Deck",
+    "Rarity": "Special",
+    "Generation": "N/A",
+    "Collection": "Award",
+    "Image Path": "Assets/Items/AWRD102.png",
+    "": ""
+  },
+  {
+    "ID": "DEV101",
+    "Name": "Switch's Deck",
+    "Type": "Deck",
+    "Rarity": "Special",
+    "Generation": "N/A",
+    "Collection": "Dev. Exclusive",
+    "Image Path": "Assets/Items/DEV101.png",
+    "": ""
+  },
+  {
+    "ID": "DEV102",
+    "Name": "Switch's Grip",
+    "Type": "Grip",
+    "Rarity": "Special",
+    "Generation": "N/A",
+    "Collection": "Dev. Exclusive",
+    "Image Path": "Assets/Items/DEV102.png",
+    "": ""
+  },
+  {
+    "ID": "DEV103",
+    "Name": "Dom's Deck",
+    "Type": "Deck",
+    "Rarity": "Special",
+    "Generation": "N/A",
+    "Collection": "Dev. Exclusive",
+    "Image Path": "Assets/Items/DEV103.png",
+    "": ""
+  },
+  {
+    "ID": "DEV104",
+    "Name": "Dom's Wheels",
+    "Type": "Wheels",
+    "Rarity": "Special",
+    "Generation": "N/A",
+    "Collection": "Dev. Exclusive",
+    "Image Path": "Assets/Items/DEV104.png",
+    "": ""
+  },
+  {
+    "ID": "MSC101",
+    "Name": "Standard",
+    "Type": "Set",
+    "Rarity": "Standard",
+    "Generation": "N/A",
+    "Collection": "Other Items",
+    "Image Path": "Assets/Items/MSC101.png",
+    "": ""
+  }
+]
