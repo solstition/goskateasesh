@@ -1,24 +1,4 @@
 // ============================================
-// CONFIGURATION
-// ============================================
-const CONFIG = {
-  UNOBTAINABLE: ["Cool S", "Shredded"],
-  EXCLUDED_COLLECTIONS: ["Other Items", "Dev. Exclusive"],
-  EXCLUDED_RARITIES: ["Special"],
-  NON_TRADABLE: ["Cool S", "Shredded", "Tis The Season", "The Tree"],
-  DATA_URL: "items.json",
-  STORAGE_KEY: "itemChecklist",
-  IMAGE_FALLBACK: "https://via.placeholder.com/200?text=No+Image",
-};
-
-// ============================================
-// STATE
-// ============================================
-let allItems = [];
-let filteredItems = [];
-const isChecklistPage = !!document.getElementById("checklistContainer");
-
-// ============================================
 // TEMPLATE STORE
 // ============================================
 const ItemTemplate = {
