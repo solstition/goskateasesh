@@ -308,17 +308,19 @@ function initChecklist() {
 // MAIN INITIALIZATION
 // ============================================
 function init() {
-  fetch(CONFIG.DATA_URL)
-    .then((res) => res.json())
-    .then((data) => {
+  fetch(CONFIG.DATA)
+    .then(response => response.json())
+    .then(data => {
       allItems = data;
-      if (isChecklistPage) {
-        initChecklist();
-      } else {
-        initItems();
-      }
+      initPage();
     })
     .catch((err) => console.error("Error loading data:", err));
+}
+
+function initPage(){
+  if (isChecklistPage) {
+    initChecklist();
+  } else initItems();
 }
 
 // Start the app
