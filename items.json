@@ -1191,7 +1191,7 @@
   },
   {
     "ID": "BC401",
-    "Name": "Goulish",
+    "Name": "Ghoulish",
     "Type": "Deck",
     "Rarity": "Blue",
     "Generation": 4,
@@ -1471,7 +1471,7 @@
   },
   {
     "ID": "LCH411",
-    "Name": "Red Skull",
+    "Name": "Red Skull N Bones",
     "Type": "Grip",
     "Rarity": "Purple",
     "Generation": 4,
@@ -1601,7 +1601,7 @@
   },
   {
     "ID": "FK506",
-    "Name": "Identiy",
+    "Name": "Identity",
     "Type": "Trucks",
     "Rarity": "Dark Blue",
     "Generation": 5,
@@ -2371,7 +2371,7 @@
   },
   {
     "ID": "BST711",
-    "Name": "Escape",
+    "Name": "Escaped",
     "Type": "Grip",
     "Rarity": "Purple",
     "Generation": 7,
