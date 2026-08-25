@@ -4090,6 +4090,26 @@
     "": ""
   },
   {
+    "ID": "UPD105",
+    "Name": "A Garden",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": "N/A",
+    "Collection": "Update",
+    "Image Path": "Assets/Items/UPD105.png",
+    "": ""
+  },
+  {
+    "ID": "UPD106",
+    "Name": "Lurid",
+    "Type": "Deck",
+    "Rarity": "Red",
+    "Generation": "N/A",
+    "Collection": "Update",
+    "Image Path": "Assets/Items/UPD106.png",
+    "": ""
+  },
+  {
     "ID": "GIFT101",
     "Name": "The Tree",
     "Type": "Deck",
